@@ -1,0 +1,200 @@
+{
+  "quiz_id": "ch1-3_quiz_02",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "How should a good driver behave when another motorist makes a mistake on the road?",
+      "options": {
+        "a": "Retaliate to show the other driver they were wrong",
+        "b": "Remain calm and make space to avoid danger",
+        "c": "Sound the horn repeatedly to warn them"
+      },
+      "correct_answer": "b",
+      "explanation": "A good driver stays calm and gives others room to correct mistakes, avoiding escalation or danger.",
+      "page_reference": 9,
+      "image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_text": "When driving on a narrow rural road and another vehicle is overtaking too closely, what should you do?",
+      "options": {
+        "a": "Move closer to the edge to allow safe overtaking",
+        "b": "Accelerate to create distance",
+        "c": "Swerve slightly to discourage overtaking"
+      },
+      "correct_answer": "a",
+      "explanation": "Creating space for others to pass safely demonstrates patience and foresight, key traits of defensive drivers.",
+      "page_reference": 9,
+      "image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_text": "Which conduct best reflects a cooperative and partner-like attitude in traffic?",
+      "options": {
+        "a": "Helping another driver rejoin the lane safely",
+        "b": "Blocking a merging vehicle to maintain your speed",
+        "c": "Speeding up when another driver signals to overtake"
+      },
+      "correct_answer": "a",
+      "explanation": "Cooperation improves traffic flow and safety. Allowing others to merge safely reflects responsible driving behaviour.",
+      "page_reference": 9,
+      "image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_text": "What should you do if another driver is flashing headlights and tailgating you at night?",
+      "options": {
+        "a": "Slow down slightly and allow them to overtake safely",
+        "b": "Brake sharply to warn them to back off",
+        "c": "Increase speed to avoid confrontation"
+      },
+      "correct_answer": "a",
+      "explanation": "Tailgating is dangerous. Staying calm and allowing the driver to pass safely prevents escalation or collision.",
+      "page_reference": 9,
+      "image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_text": "What is the best response if you feel nervous or pressured by faster drivers behind you?",
+      "options": {
+        "a": "Focus on staying safe and let them pass when possible",
+        "b": "Match their speed to avoid being overtaken",
+        "c": "Signal frustration by slowing down deliberately"
+      },
+      "correct_answer": "a",
+      "explanation": "Defensive drivers prioritize safety, not pride. Keeping calm and maintaining control is the correct action.",
+      "page_reference": 9,
+      "image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_text": "What does defensive driving mainly require?",
+      "options": {
+        "a": "High vehicle speed to avoid being overtaken",
+        "b": "Awareness of others’ potential mistakes and driving with foresight",
+        "c": "Strictly insisting on your own right-of-way"
+      },
+      "correct_answer": "b",
+      "explanation": "Defensive driving is about anticipation and patience — not asserting dominance but preventing risk.",
+      "page_reference": 10,
+      "image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_text": "Which action could cause unnecessary obstruction on the road?",
+      "options": {
+        "a": "Stopping in a traffic lane because of fuel exhaustion",
+        "b": "Pulling off the road when making a phone call",
+        "c": "Slowing down for pedestrians at a crossing"
+      },
+      "correct_answer": "a",
+      "explanation": "Running out of fuel due to poor preparation causes preventable road obstructions and safety hazards.",
+      "page_reference": 13,
+      "image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_text": "Which document must you submit when re-registering a used car in another district?",
+      "options": {
+        "a": "Proof of insurance",
+        "b": "Copy of your driving test results",
+        "c": "Sales agreement only"
+      },
+      "correct_answer": "a",
+      "explanation": "Re-registration requires insurance proof to ensure the vehicle is legally covered before being driven.",
+      "page_reference": 11,
+      "image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_text": "Which action contributes most to noise pollution and loss of concentration?",
+      "options": {
+        "a": "Playing loud music with windows closed",
+        "b": "Listening to a news program quietly",
+        "c": "Using navigation voice prompts"
+      },
+      "correct_answer": "a",
+      "explanation": "Loud ‘power sound’ music can prevent drivers from hearing horns, sirens, or approaching traffic, risking accidents.",
+      "page_reference": 13,
+      "image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_text": "What may cause a vehicle to lose stability when braking?",
+      "options": {
+        "a": "Brakes that engage unevenly on one side",
+        "b": "Tyres with proper tread depth",
+        "c": "A balanced steering wheel"
+      },
+      "correct_answer": "a",
+      "explanation": "Uneven brake engagement can pull the vehicle sideways, creating a serious road hazard.",
+      "page_reference": 13,
+      "image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_text": "What can impair a driver’s fitness to drive apart from alcohol?",
+      "options": {
+        "a": "Certain medicines and intoxicants",
+        "b": "Listening to calm music",
+        "c": "Driving after eating"
+      },
+      "correct_answer": "a",
+      "explanation": "Many medicines affect alertness and coordination, so drivers must check side effects before driving.",
+      "page_reference": 6,
+      "image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_text": "When overtaken by a faster car on a narrow road, what should you do to maintain safety?",
+      "options": {
+        "a": "Move slightly to the left and hold steady speed",
+        "b": "Accelerate to finish the lane faster",
+        "c": "Flash lights to signal your presence"
+      },
+      "correct_answer": "a",
+      "explanation": "Maintaining a steady path and giving space prevents collisions and helps the overtaking driver complete safely.",
+      "page_reference": 9,
+      "image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_text": "What is required if your vehicle’s suspension has been lowered?",
+      "options": {
+        "a": "An immediate expert inspection and updated vehicle document",
+        "b": "Nothing, as long as it drives normally",
+        "c": "Only a personal declaration to the police"
+      },
+      "correct_answer": "a",
+      "explanation": "Vehicle modifications that affect handling or height must be inspected and recorded officially to stay road legal.",
+      "page_reference": 14,
+      "image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_text": "Above which blood alcohol level can you expect driving ability to be impaired?",
+      "options": {
+        "a": "0.3 per mille (30 mg/100 ml)",
+        "b": "0.1 per mille (10 mg/100 ml)",
+        "c": "1.0 per mille (100 mg/100 ml)"
+      },
+      "correct_answer": "a",
+      "explanation": "Even at 0.3‰, alcohol can slow reactions and reduce awareness — Botswana’s rules assume risk begins here.",
+      "page_reference": 6,
+      "image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_text": "When driving on a busy highway and a faster vehicle overtakes then cuts in sharply, what is the correct reaction?",
+      "options": {
+        "a": "Stay calm, maintain distance, and continue safely",
+        "b": "Flash headlights to show disapproval",
+        "c": "Accelerate to regain position"
+      },
+      "correct_answer": "a",
+      "explanation": "Calmness prevents secondary accidents — maintaining a safe following distance is key to defensive driving.",
+      "page_reference": 9,
+      "image_url": null
+    }
+  ]
+}
