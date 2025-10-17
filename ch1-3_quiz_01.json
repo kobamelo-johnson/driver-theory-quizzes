@@ -1,0 +1,135 @@
+{
+"quiz_id": "ch1-3_quiz_01",
+"questions": [
+{
+"question_number": 1,
+"question_text": "What can cause a driver to veer off the road unexpectedly?",
+"options": {
+"a": "Excessive speed",
+"b": "Fatigue or drowsiness",
+"c": "Distraction or inattentiveness"
+},
+"correct_answer": "b",
+"explanation": "Veering off the road is often caused by fatigue, inattentiveness, or excessive speed. Drivers must remain alert and take breaks when tired.",
+"page_reference": 5,
+"image_url": null
+},
+{
+"question_number": 2,
+"question_text": "When driving long distances at night, what is the correct action if you start feeling sleepy and your eyelids feel heavy?",
+"options": {
+"a": "Open the window for fresh air and continue driving",
+"b": "Interrupt your journey and take a proper rest",
+"c": "Drink coffee and keep going"
+},
+"correct_answer": "b",
+"explanation": "The safest action when experiencing fatigue is to stop and rest properly. Continuing to drive risks falling asleep at the wheel.",
+"page_reference": 6,
+"image_url": null
+},
+{
+"question_number": 3,
+"question_text": "Can small amounts of alcohol affect your driving ability?",
+"options": {
+"a": "No, only large quantities cause impairment",
+"b": "Yes, even small quantities can impair fitness to drive",
+"c": "Only if taken together with medication"
+},
+"correct_answer": "b",
+"explanation": "Even low alcohol levels can slow reaction time and reduce awareness, making driving unsafe.",
+"page_reference": 6,
+"image_url": null
+},
+{
+"question_number": 4,
+"question_text": "Which of the following makes a driver unfit to drive even if taken occasionally?",
+"options": {
+"a": "Hashish, heroin, cocaine",
+"b": "Herbal tea or mild painkillers",
+"c": "Energy drinks"
+},
+"correct_answer": "a",
+"explanation": "Illegal drugs such as hashish, heroin, and cocaine impair judgment and reaction time even when used once.",
+"page_reference": 7,
+"image_url": null
+},
+{
+"question_number": 5,
+"question_text": "Immediately before setting off, you are very angry after an argument. What is the correct decision?",
+"options": {
+"a": "Drive carefully to calm yourself down",
+"b": "Drive slowly and keep the window open",
+"c": "Do not drive until you have calmed down"
+},
+"correct_answer": "c",
+"explanation": "Strong emotions like anger reduce focus and increase risk-taking. It is safer to wait until calm before driving.",
+"page_reference": 8,
+"image_url": null
+},
+{
+"question_number": 6,
+"question_text": "What can strongly distract a driver while on the road?",
+"options": {
+"a": "Talking to passengers",
+"b": "Lighting a cigarette",
+"c": "Using a hands-free phone"
+},
+"correct_answer": "b",
+"explanation": "Lighting a cigarette takes your hands and attention off the road, increasing the chance of an accident.",
+"page_reference": 8,
+"image_url": null
+},
+{
+"question_number": 7,
+"question_text": "What best describes a good driver?",
+"options": {
+"a": "Drives confidently and shows superiority",
+"b": "Treats others as partners and drives calmly and courteously",
+"c": "Always insists on his rights when driving"
+},
+"correct_answer": "b",
+"explanation": "A good driver practices patience, cooperation, and respect for other road users.",
+"page_reference": 9,
+"image_url": null
+},
+{
+"question_number": 8,
+"question_text": "A vehicle behind is flashing lights and driving too close, trying to push you to go faster. What should you do?",
+"options": {
+"a": "Accelerate to increase distance",
+"b": "Let the driver overtake safely when possible",
+"c": "Brake suddenly to warn the driver behind"
+},
+"correct_answer": "b",
+"explanation": "Defensive driving means allowing aggressive drivers to pass safely instead of reacting emotionally.",
+"page_reference": 9,
+"image_url": null
+},
+{
+"question_number": 9,
+"question_text": "What should you understand by 'defensive driving'?",
+"options": {
+"a": "Insisting on your right-of-way in every situation",
+"b": "Allowing for other people’s mistakes and driving with foresight",
+"c": "Driving slowly at all times"
+},
+"correct_answer": "b",
+"explanation": "Defensive driving involves anticipating hazards and adjusting behavior to prevent accidents.",
+"page_reference": 10,
+"image_url": null
+},
+{
+"question_number": 10,
+"question_text": "Which documents must a driver always carry while operating a vehicle?",
+"options": {
+"a": "Driving licence and vehicle registration certificate",
+"b": "Insurance policy and road map",
+"c": "Vehicle logbook only"
+},
+"correct_answer": "a",
+"explanation": "These are mandatory documents that must be presented during traffic inspections or accidents.",
+"page_reference": 11,
+"image_url": null
+}
+]
+}
