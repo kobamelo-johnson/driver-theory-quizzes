@@ -1,0 +1,140 @@
+{
+  "quiz_id": "ch4-5_quiz_01",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "You are in the acceleration lane, intending to join the Highway. Which principle has the highest priority?",
+      "options": {"a": "Vehicles already on the Highway must give way to you.","b": "You must match the speed of the vehicles in the left lane before merging.","c": "The traffic already traveling on the Highway has priority."},
+      "correct_answer": "c",
+      "explanation": "This is a fundamental rule of merging. Traffic on the main carriageway always has the right-of-way. While matching speed (b) is the correct technique, it is done to find a safe gap. You must always yield to traffic already on the highway. Option 'a' is the direct opposite of the rule and is extremely dangerous.",
+      "page_reference": 11,
+      "image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_text": "What is the primary risk you should anticipate in this situation?",
+      "options": {"a": "The car in front may have its fog lights on unnecessarily.","b": "The water thrown up by the car in front can severely obscure your vision.","c": "The road ahead is likely to be flooded and impassable."},
+      "correct_answer": "b",
+      "explanation": "While the road is wet, the immediate and constant danger when following another vehicle is the wheel-spray it creates. This spray can coat your windscreen, and combined with the wipers, can momentarily blind you to hazards ahead. This is a primary reason for increasing following distance in the rain.",
+      "page_reference": 14,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@main/CPT4-5_qz01-Q2.png"
+    },
+    {
+      "question_number": 3,
+      "question_text": "What does this image, taken from a driver's perspective on a country road, require you to do?",
+      "options": {"a": "Increase your speed to get through the forested area quickly.","b": "Move to the center of the road to get a better view.","c": "Drive with particular care due to the obscured view and uneven road surface."},
+      "correct_answer": "c",
+      "explanation": "The image shows a narrow road where the view ahead is limited, and the surface is visibly uneven. This combination of hazards requires heightened alertness and caution. Increasing speed (a) or moving to the center (b) would be reckless actions in this context.",
+      "page_reference": 14,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@main/CPT4-5_qz01-Q3.png"
+    },
+    {
+      "question_number": 4,
+      "question_text": "You have missed your exit on the Highway. What is the only correct and safe action to take?",
+      "options": {"a": "Stop on the hard shoulder and reverse back to the exit.","b": "Drive on to the next exit.","c": "Make a U-turn at the next gap in the central reservation."},
+      "correct_answer": "b",
+      "explanation": "Reversing (a) and making U-turns (c) on a highway are strictly forbidden and exceptionally dangerous. The only legal and safe procedure is to accept the mistake and continue driving until you reach the next official exit.",
+      "page_reference": 12,
+      "image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_text": "On a road outside a built-up area with three lanes in each direction, which lane may you use for continuous travel?",
+      "options": {"a": "The far left-hand lane only.","b": "The middle lane.","c": "The far right-hand lane only."},
+      "correct_answer": "b",
+      "explanation": "On a three-lane carriageway, the rule is to 'keep left' for slower traffic. The far right lane is designated for overtaking. The middle lane may be used for continuous travel at a normal speed, to avoid holding up overtaking traffic while not impeding slower vehicles on the left.",
+      "page_reference": 9,
+      "image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_text": "What is the most likely danger to arise in this residential area?",
+      "options": {"a": "The road is wide enough for high-speed travel.","b": "Junctions may be ignored by other drivers.","c": "Oncoming traffic will give you priority."},
+      "correct_answer": "b",
+      "explanation": "In residential areas, junctions and driveways are common. The most significant risk is that other drivers or children may enter the road without looking or yielding, assuming the road is clear. You must be prepared for others to ignore junctions and priorities.",
+      "page_reference": 16,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@main/CPT4-5_qz01-Q6.png"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Why must you maintain a particularly large safe distance from the vehicle in front when the road is wet?",
+      "options": {"a": "Because your reaction time is slower in the rain.","b": "Because the stopping distance is much greater than on a dry road.","c": "Because it is required by law to double your following distance."},
+      "correct_answer": "b",
+      "explanation": "The primary reason for increasing following distance on a wet road is physics: reduced grip from the tyres means your braking distance increases significantly. While the law implies a safe distance (c), and rain can be distracting (a), the core reason is the longer physical stopping distance.",
+      "page_reference": 14,
+      "image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_text": "A traffic jam has formed on a three-lane Highway. Where must the channel for emergency vehicles be formed?",
+      "options": {"a": "Between the left-hand and the middle lanes.","b": "On the hard shoulder.","c": "Between the right-hand and the middle lanes."},
+      "correct_answer": "c",
+      "explanation": "The rule for a three-lane highway is specific. Vehicles in the right-hand (overtaking) lane must move as far right as possible. Vehicles in the middle and left lanes must move left. This creates a clear channel between the right-hand lane and the middle lane.",
+      "page_reference": 12,
+      "image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_text": "What does a stationary vehicle with flashing hazard warning lights most commonly indicate?",
+      "options": {"a": "The driver is lost and is checking a map.","b": "The vehicle has broken down and is a potential hazard.","c": "The driver has temporarily parked where stopping is not allowed."},
+      "correct_answer": "b",
+      "explanation": "The primary, official use for hazard lights on a stationary vehicle is to warn other road users that it has broken down and is causing an obstruction. While people may misuse them for other reasons (a, c), you must always assume it is a genuine hazard and approach with caution.",
+      "page_reference": 26,
+      "image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_text": "Using the rule of thumb, what is your approximate BRAKING distance if you are traveling at 100 km/h?",
+      "options": {"a": "30 metres","b": "100 metres","c": "130 metres"},
+      "correct_answer": "b",
+      "explanation": "The formula for braking distance is (Speed in km/h ÷ 10) x (Speed in km/h ÷ 10). At 100 km/h, this is (100 ÷ 10) x (100 ÷ 10), which is 10 x 10 = 100 metres. 30 metres (a) is the reaction distance. 130 metres (c) is the total stopping distance (reaction + braking).",
+      "page_reference": 24,
+      "image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_text": "Which of these is a danger you must reckon with when driving on a good, wide road for a long time at high speed?",
+      "options": {"a": "An increased likelihood of tyre failure.","b": "A tendency to lose your feel for the actual speed you are traveling.","c": "Significantly increased fuel consumption."},
+      "correct_answer": "b",
+      "explanation": "This describes 'speed adaptation'. After prolonged high-speed driving, your brain becomes accustomed to the speed, leading you to dangerously underestimate how fast you are actually going. This is a major risk when you need to slow down for an exit or hazard.",
+      "page_reference": 21,
+      "image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_text": "You are approaching a stationary truck and trailer. What is the most important thing to consider before overtaking?",
+      "options": {"a": "The truck may pull out suddenly without warning.","b": "Your view of the road ahead is completely blocked, hiding oncoming traffic.","c": "The truck is likely to be much longer than a standard car."},
+      "correct_answer": "b",
+      "explanation": "While 'a' and 'c' are true, the most immediate and life-threatening danger is the lack of visibility. The truck creates a large blind spot, and you cannot see if there is oncoming traffic. You must not begin to overtake until you have a clear and certain view of the road ahead.",
+      "page_reference": 10,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@main/CPT4-5_qz01-Q12.png"
+    },
+    {
+      "question_number": 13,
+      "question_text": "What is the maximum speed you are allowed to drive a car towing a trailer on roads outside built-up areas?",
+      "options": {"a": "80 km/h","b": "100 km/h","c": "120 km/h"},
+      "correct_answer": "a",
+      "explanation": "There is a specific national speed limit for a car towing a trailer, which is lower than the limit for a car alone. This limit is 80 km/h, regardless of whether the general speed limit for the road is higher.",
+      "page_reference": 22,
+      "image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_text": "What is the correct way to take a tight bend?",
+      "options": {"a": "Maintain your speed and start braking halfway through the bend.","b": "Reduce your speed before reaching the bend, and only accelerate again once the road straightens out.","c": "Brake gently while steering through the bend to maintain control."},
+      "correct_answer": "b",
+      "explanation": "The safe and correct technique is to do all your main braking in a straight line before you start to turn. Braking while turning (a, c) upsets the balance of the car and can lead to a skid. Once you are in the bend, you should maintain a steady path and only accelerate out of it as the road becomes straight.",
+      "page_reference": 16,
+      "image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_text": "In which cases is it imperative to test the brakes of your vehicle?",
+      "options": {"a": "Before starting any long journey.","b": "When your vehicle has not been moved for a long time.","c": "After driving through deep water."},
+      "correct_answer": "b",
+      "explanation": "When a vehicle has been parked for a long period, especially in damp conditions, a film of rust can form on the brake discs, reducing their effectiveness initially. It is crucial to test them gently at a low speed to ensure they are working correctly before you need them at a higher speed. While testing brakes is good practice in general (a, c), it is considered imperative after a long period of disuse.",
+      "page_reference": 115,
+      "image_url": null
+    }
+  ]
+}
