@@ -1,0 +1,200 @@
+{
+  "quiz_id": "ch6_quiz_01",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "You are approaching a crossroads where the priority situation is not clear to you straightaway. What do you do?",
+      "options": {
+        "a": "Proceed at your current speed as other drivers will see you.",
+        "b": "Wait, observe and come to an agreement with others, if necessary.",
+        "c": "Assert your right-of-way if you are on the wider road."
+      },
+      "correct_answer": "b",
+      "explanation": "This is a question about safe driving conduct, not a specific right-of-way rule. When a situation is confusing, the safest action is always to slow down or stop, observe what others are doing, and only proceed when it's safe, even if it means communicating with others.",
+      "page_reference": 28,
+      "image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_text": "At a junction, a police officer is controlling traffic. Their arm is raised straight up. What does this signal mean?",
+      "options": {
+        "a": "It indicates that all traffic may prepare to proceed.",
+        "b": "It is a signal to stop, equivalent to an amber traffic light.",
+        "c": "It allows traffic from the front and back to proceed."
+      },
+      "correct_answer": "b",
+      "explanation": "A police officer's signals for controlling traffic are absolute. An arm raised straight up is the equivalent of an amber (yellow) light, meaning traffic should prepare to stop. It signals an impending change in the flow of traffic.",
+      "page_reference": 41,
+      "image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_text": "You want to turn left from this farm track. Referring to the image, who must wait?",
+      "options": {
+        "a": "The car coming from the farm track must wait.",
+        "b": "Traffic on the main road must give way to you.",
+        "c": "Both drivers must come to an agreement."
+      },
+      "correct_answer": "a",
+      "explanation": "The right-of-way rule when entering a public road from a non-public road (like a farm track or driveway) is that you must give way to all traffic already on the public road. The driver on the farm track has no priority.",
+      "page_reference": 36,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@94849d489726d53ecab1fe80d2743614ab9f2199/CPT6_qz01-Q3.png"
+    },
+    {
+      "question_number": 4,
+      "question_text": "What is the correct procedure at a 4-way-stop?",
+      "options": {
+        "a": "The vehicle turning left always has priority.",
+        "b": "The stopped vehicle which arrived first shall have priority to move off first.",
+        "c": "All drivers must give way to traffic from their right."
+      },
+      "correct_answer": "b",
+      "explanation": "At a junction where all joining roads have a STOP sign, a special rule applies. Every driver must stop, but the driver who stopped at their line first has the right to proceed first, provided it is safe.",
+      "page_reference": 37,
+      "image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_text": "Referring to the image, you are driving towards a traffic light that is flashing amber. What is the correct procedure?",
+      "options": {
+        "a": "You may turn observing the traffic signs.",
+        "b": "You may proceed with caution as you are on the priority road.",
+        "c": "The green car must wait."
+      },
+      "correct_answer": "a",
+      "explanation": "The flashing amber light means the traffic light system is not controlling the junction. You must obey any other traffic signs present. In this case, you are facing a 'Give Way' sign (the inverted triangle), which means you must give way to the green car on the priority road. Therefore, 'The green car must wait' is incorrect.",
+      "page_reference": 38,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@94849d489726d53ecab1fe80d2743614ab9f2199/CPT6_qz01-Q5.png"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Under which circumstance must you NOT drive into a crossroads, even if the traffic light is green?",
+      "options": {
+        "a": "If you are turning and there are pedestrians on the far side.",
+        "b": "If you would have to wait on the crossroads because of traffic congestion.",
+        "c": "If the vehicle behind you is very close."
+      },
+      "correct_answer": "b",
+      "explanation": "This is a rule of good junction discipline. To prevent gridlock, you must not enter an intersection unless your exit is clear. Blocking a junction is not permitted, even if you have the right to proceed.",
+      "page_reference": 42,
+      "image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_text": "Referring to the image, which conduct is correct?",
+      "options": {
+        "a": "I may proceed because I am going straight.",
+        "b": "The red and yellow car proceed first.",
+        "c": "I have priority over the yellow car, but not the red car."
+      },
+      "correct_answer": "b",
+      "explanation": "This is a 4-way junction with roads of equal importance, as there are no signs or markings. The rule that applies is 'right before left,' meaning you must give way to traffic on your right. Since the yellow car is on your right, you must wait. Likewise, the yellow car must wait for the red car which is on its right. The correct sequence is red car, yellow car, then your car.",
+      "page_reference": 28,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@94849d489726d53ecab1fe80d2743614ab9f2199/CPT6_qz01-Q7.png"
+    },
+    {
+      "question_number": 8,
+      "question_text": "At which places where there are no traffic signs regulating priority does the rule 'right before left' apply?",
+      "options": {
+        "a": "Only at roundabouts.",
+        "b": "At crossroads and junctions.",
+        "c": "Only in residential areas."
+      },
+      "correct_answer": "b",
+      "explanation": "The 'right before left' rule is the default priority rule that applies at any intersection (crossroads or junction) where priority is not otherwise indicated by signs, signals, or police officers.",
+      "page_reference": 27,
+      "image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_text": "In the image, you are stopped at the line. Which conduct is correct?",
+      "options": {
+        "a": "I must allow the bus to proceed.",
+        "b": "I must allow the cyclist to proceed.",
+        "c": "I must first stop at the stop line, then allow both the cyclist and bus to pass."
+      },
+      "correct_answer": "c",
+      "explanation": "A STOP sign imposes two commands: first, you must come to a full stop before the line. Second, you must give way to all traffic on the intersecting road, as it is a priority road. This includes both the cyclist and the bus. You may only proceed after they have cleared the junction.",
+      "page_reference": 33,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@94849d489726d53ecab1fe80d2743614ab9f2199/CPT6_qz01-Q9.png"
+    },
+    {
+      "question_number": 10,
+      "question_text": "A police officer is regulating traffic at a crossroads where there are also traffic lights in operation. What applies?",
+      "options": {
+        "a": "The traffic lights' signals.",
+        "b": "The police officer's signals.",
+        "c": "Drivers can choose which signal to obey."
+      },
+      "correct_answer": "b",
+      "explanation": "A key principle of road hierarchy is that instructions from a police officer override all other signals and signs. You must obey the officer even if their instruction contradicts a traffic light.",
+      "page_reference": 41,
+      "image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_text": "Referring to the traffic lights in the image, what is permitted?",
+      "options": {
+        "a": "You must wait for the main light to turn green before turning right.",
+        "b": "You may turn right from the right lane when there is no obstruction or danger to others.",
+        "c": "You may turn right but only after coming to a complete stop."
+      },
+      "correct_answer": "b",
+      "explanation": "This traffic light has a separate green arrow for turning right. This 'filter arrow' allows you to turn in the indicated direction even when the main light is red, provided the way is clear of any hazards, like pedestrians.",
+      "page_reference": 39,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@94849d489726d53ecab1fe80d2743614ab9f2199/CPT6_qz01-Q11.png"
+    },
+    {
+      "question_number": 12,
+      "question_text": "In the image, you intend to turn right. The cyclist is proceeding straight. Which conduct is correct?",
+      "options": {
+        "a": "I must allow the cyclist to pass.",
+        "b": "The cyclist must wait for me.",
+        "c": "We have equal priority and must come to an agreement."
+      },
+      "correct_answer": "a",
+      "explanation": "The rule is that when you are turning right, you must give way to oncoming traffic that is proceeding straight ahead. Your turning path crosses the cyclist's path, so the cyclist has the right of way.",
+      "page_reference": 28,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@94849d489726d53ecab1fe80d2743614ab9f2199/CPT6_qz01-Q12.png"
+    },
+    {
+      "question_number": 13,
+      "question_text": "You want to cross a priority road, but the sight to both sides is greatly impaired by parked vehicles. What do you do?",
+      "options": {
+        "a": "Drive onto the crossroads slowly and carefully.",
+        "b": "Sound your horn to warn unseen traffic before proceeding quickly.",
+        "c": "Wait until another vehicle goes and follow them closely."
+      },
+      "correct_answer": "a",
+      "explanation": "This question concerns safe practice in a hazardous situation. The correct technique, often called 'peep and creep,' is to edge the front of your car forward slowly and cautiously until your view is no longer obstructed, before committing to the crossing.",
+      "page_reference": 28,
+      "image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_text": "Looking at the overhead gantry signals in the image, what do these permanent control signs mean?",
+      "options": {
+        "a": "I may not use lanes 3 and 4.",
+        "b": "I must switch from lane 2 to lane 1.",
+        "c": "Lanes 1 and 2 are for fast traffic, lanes 3 and 4 are for slow traffic."
+      },
+      "correct_answer": "a",
+      "explanation": "These are lane control signals. A red 'X' over a lane means that lane is closed to traffic moving in your direction. A green downward arrow means the lane is open. Therefore, you cannot use lanes 3 and 4.",
+      "page_reference": 40,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@94849d489726d53ecab1fe80d2743614ab9f2199/CPT6_qz01-Q14.png"
+    },
+    {
+      "question_number": 15,
+      "question_text": "In the image, you are driving. A police officer is standing in the junction. What is correct?",
+      "options": {
+        "a": "Cross the crossroads at a brisk pace.",
+        "b": "Wait at the crossroads.",
+        "c": "Stop immediately and wait for a different signal."
+      },
+      "correct_answer": "a",
+      "explanation": "A police officer's signals override any signs or markings. The signal for traffic to proceed is when the officer stands sideways to you, whether facing left or right. A signal to stop is when the officer faces you or has their back to you.",
+      "page_reference": 41,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@94849d489726d53ecab1fe80d2743614ab9f2199/CPT6_qz01-Q15.png"
+    }
+  ]
+}
