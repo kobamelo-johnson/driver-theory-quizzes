@@ -1,0 +1,203 @@
+{
+  "quiz_id": "ch4-5_quiz_03",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "You want to join the Highway from the acceleration lane. What is the correct procedure if you cannot filter into the traffic stream due to high density?",
+      "options": {
+        "a": "Force your vehicle into the lane to ensure you do not stop.",
+        "b": "Drive onto the hard shoulder and continue until a gap appears.",
+        "c": "Stop towards the end of the acceleration lane and wait for a gap."
+      },
+      "correct_answer": "c",
+      "explanation": "If traffic is too dense to merge safely, you must not force your way in or use the hard shoulder. The correct procedure is to stop near the end of the acceleration lane, wait for a safe gap, and then accelerate quickly to join.",
+      "page_reference": 11,
+      "image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_text": "You are driving at night with dipped headlights on a good country road. Within what distance must you be able to stop?",
+      "options": {
+        "a": "Within the range of your vision illuminated by the headlights.",
+        "b": "Within 100 metres, regardless of lighting.",
+        "c": "Within twice the range of your headlights."
+      },
+      "correct_answer": "a",
+      "explanation": "A fundamental rule of night driving is that you must always be able to stop within the distance you can see. If you drive faster than your lights allow you to see, you are 'over-driving' your headlights and cannot react to hazards in time.",
+      "page_reference": 22,
+      "image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_text": "What is the rule of thumb for calculating 'Reaction Distance' (the distance traveled before you start braking)?",
+      "options": {
+        "a": "(Speed in km/h ÷ 10) x 5",
+        "b": "(Speed in km/h ÷ 10) x 3",
+        "c": "(Speed in km/h ÷ 10) x (Speed in km/h ÷ 10)"
+      },
+      "correct_answer": "b",
+      "explanation": "The specific formula provided for reaction distance is taking the speed (divided by 10) and multiplying it by 3. For example, at 50 km/h: (5 x 3) = 15 metres.",
+      "page_reference": 24,
+      "image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_text": "What is the immediate danger when overtaking a large truck in a strong side wind blowing from the left?",
+      "options": {
+        "a": "Your vehicle will be pushed to the left as you pass the truck.",
+        "b": "The truck driver will likely swerve into your lane.",
+        "c": "Your vehicle will be pulled to the left (towards the truck) as you enter the slipstream."
+      },
+      "correct_answer": "c",
+      "explanation": "When you pull out to overtake and enter the area alongside the truck (the slipstream), the wind is blocked. The sudden drop in wind pressure creates a vacuum effect that pulls your vehicle towards the truck. You must be prepared to steer against this pull.",
+      "page_reference": 19,
+      "image_url": https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@f4af96a4bdb8324771da2c8fce1a6666e896f38b/CPT4-5_qz03-Q4.png
+
+    },
+    {
+      "question_number": 5,
+      "question_text": "While stationary in a traffic jam, you see a motorcyclist threading their way through the traffic between lanes. What should you do?",
+      "options": {
+        "a": "Open your door to signal them to stop.",
+        "b": "Allow them to pass.",
+        "c": "Move your vehicle to block their path to enforce the rules."
+      },
+      "correct_answer": "b",
+      "explanation": "Even if the motorcyclist is ignoring regulations, your duty is safety. You should simply allow them to pass to avoid creating a hazard or conflict. Taking enforcement action yourself (a or c) is dangerous and aggressive.",
+      "page_reference": 11,
+      "image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_text": "Which of the following roads applies the recommended speed of 120 km/h?",
+      "options": {
+        "a": "Gravel roads in good condition.",
+        "b": "Any paved road outside a built-up area.",
+        "c": "Roads outside built-up areas with at least two marked lanes in each direction."
+      },
+      "correct_answer": "c",
+      "explanation": "The recommended speed of 120 km/h applies specifically to roads outside built-up areas that have physically separate roadways or at least two marked lanes for each direction. It does not apply to standard single-lane country roads.",
+      "page_reference": 22,
+      "image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_text": "You are driving on a clearway designated for motor vehicles only. Which action is strictly prohibited?",
+      "options": {
+        "a": "Making a U-turn.",
+        "b": "Driving at 80 km/h.",
+        "c": "Overtaking on the right."
+      },
+      "correct_answer": "a",
+      "explanation": "Clearways are designed for continuous traffic flow. Making a U-turn is strictly prohibited as it disrupts the flow and creates a high-speed collision risk. You must wait for a proper junction to change direction.",
+      "page_reference": 12,
+      "image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_text": "What increases the risk of aquaplaning (sliding on wet roads) besides high speed?",
+      "options": {
+        "a": "Heavy braking.",
+        "b": "Grooves or ruts in the roadway.",
+        "c": "Driving in a low gear."
+      },
+      "correct_answer": "b",
+      "explanation": "Aquaplaning occurs when water builds up between the tyre and the road. Grooves or ruts in the asphalt collect water, creating deeper pools that make it harder for tyres to disperse the water, thus increasing the risk of floating (aquaplaning).",
+      "page_reference": 20,
+      "image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_text": "How can you effectively reduce noise pollution while driving in built-up areas?",
+      "options": {
+        "a": "Drive in 4th or 5th gear (high gear) whenever possible.",
+        "b": "Drive in 1st gear to maintain low speed.",
+        "c": "Constantly rev the engine to keep it warm."
+      },
+      "correct_answer": "a",
+      "explanation": "Driving in a higher gear at a low engine speed (RPM) significantly reduces engine noise. Driving in low gears (like 1st or 2nd) at steady speeds creates unnecessary high-pitched engine noise.",
+      "page_reference": 23,
+      "image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_text": "What is the danger of 'Speed Adaptation' (losing the feel for speed)?",
+      "options": {
+        "a": "You may exceed the speed limit without realizing it while accelerating.",
+        "b": "You may drive too slowly and obstruct traffic.",
+        "c": "You may dangerously underestimate your speed when exiting a highway."
+      },
+      "correct_answer": "c",
+      "explanation": "Speed adaptation usually happens after driving fast for a long time. When you need to slow down (e.g., for an exit ramp), you feel like you are going slowly, but your physical speed is still dangerously high. This misjudgment leads to loss of control on exit bends.",
+      "page_reference": 21,
+      "image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_text": "You are driving on this unpaved track. Why is driving here particularly dangerous?",
+      "options": {
+        "a": "Oncoming vehicles always have the right of way.",
+        "b": "The road grip varies constantly, and steering behavior is unpredictable.",
+        "c": "You are not allowed to drive faster than 20 km/h."
+      },
+      "correct_answer": "b",
+      "explanation": "On tracks or uneven surfaces, the grip changes from meter to meter (sand, mud, hard-pack). This makes the vehicle's response to steering and braking inconsistent and dangerous, requiring high alertness.",
+      "page_reference": 14,
+      "image_url": https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@f4af96a4bdb8324771da2c8fce1a6666e896f38b/CPT4-5_qz03-Q11.png
+
+    },
+    {
+      "question_number": 12,
+      "question_text": "Using the rule of thumb, what is the braking distance at 50 km/h?",
+      "options": {
+        "a": "40 metres.",
+        "b": "15 metres.",
+        "c": "25 metres."
+      },
+      "correct_answer": "c",
+      "explanation": "Formula: (Speed ÷ 10) x (Speed ÷ 10). Calculation: (50 ÷ 10) = 5. Then 5 x 5 = 25 metres. (Note: 15m is the reaction distance, 40m is the total stopping distance).",
+      "page_reference": 24,
+      "image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_text": "What must you be prepared for when you see this situation ahead?",
+      "options": {
+        "a": "You have the right of way, so you should maintain speed.",
+        "b": "The pedestrians, especially children, may suddenly step onto the roadway.",
+        "c": "The pedestrians will definitely wait until you pass."
+      },
+      "correct_answer": "b",
+      "explanation": "When pedestrians are standing close to the road edge or between parked cars, you must anticipate the worst-case scenario: that they will step out without looking. Children are particularly prone to this impulsive behavior.",
+      "page_reference": 13,
+      "image_url": https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@f4af96a4bdb8324771da2c8fce1a6666e896f38b/CPT4-5_qz03-Q13.png
+
+    },
+    {
+      "question_number": 14,
+      "question_text": "When overtaking on a Highway, what is a frequent cause of serious accidents?",
+      "options": {
+        "a": "Not keeping a close enough eye on the traffic situation behind you.",
+        "b": "Using the horn to signal the overtake.",
+        "c": "Overtaking at too high a speed."
+      },
+      "correct_answer": "a",
+      "explanation": "Many highway accidents occur because a driver pulls out to overtake without checking their mirrors or blind spot for faster vehicles approaching from behind. Situational awareness to the rear is just as critical as looking forward.",
+      "page_reference": 9,
+      "image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_text": "What is the maximum speed for a truck with a permissible total mass of 3.6 tonnes on country roads outside built-up areas?",
+      "options": {
+        "a": "60 km/h.",
+        "b": "80 km/h.",
+        "c": "100 km/h."
+      },
+      "correct_answer": "b",
+      "explanation": "Trucks and heavier vehicles often have lower speed limits than cars. For a truck of this size (over 3.5t) on country roads, the limit is restricted to 80 km/h.",
+      "page_reference": 22,
+      "image_url": null
+    }
+  ]
+}
