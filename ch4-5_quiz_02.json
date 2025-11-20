@@ -1,0 +1,202 @@
+{
+  "quiz_id": "ch4-5_quiz_02",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Why is driving extra slowly without a valid reason considered dangerous?",
+      "options": {
+        "a": "It causes your vehicle's engine to overheat due to lack of airflow.",
+        "b": "It encourages frustrated drivers behind you to perform dangerous overtaking maneuvers.",
+        "c": "It is illegal to drive below 60 km/h on any road in Botswana."
+      },
+      "correct_answer": "b",
+      "explanation": "While obstructing traffic is a nuisance, the specific safety risk highlighted in the theory is that slow driving provokes others into risky behavior (overtaking when it isn't safe), which creates accidents.",
+      "page_reference": 13,
+      "image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_text": "You are driving in dense fog and visibility is reduced to 40 metres. What is your maximum permitted speed?",
+      "options": {
+        "a": "60 km/h.",
+        "b": "50 km/h.",
+        "c": "40 km/h."
+      },
+      "correct_answer": "c",
+      "explanation": "The rule for fog is precise: your speed in km/h must not exceed the visibility distance in metres. If you can see 40 metres, you must not drive faster than 40 km/h.",
+      "page_reference": 14,
+      "image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_text": "What is the primary hazard associated with the situation depicted in this residential area?",
+      "options": {
+        "a": "A child or pedestrian could suddenly run out from between the parked cars.",
+        "b": "The parked cars may have expired license discs.",
+        "c": "You might scratch your car against the vehicles parked on the left."
+      },
+      "correct_answer": "a",
+      "explanation": "In residential areas with narrow streets and parked cars, the 'blind spots' created by the vehicles are the critical danger. A child is small enough to be completely hidden by a parked car and can appear in the road with zero warning.",
+      "page_reference": 13,
+      "image_url": https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@f91b50fa0bfc85c342e19f5c2b7ae1ed70649461/CPT4-5_qz02-Q3.png
+
+          },
+    {
+      "question_number": 4,
+      "question_text": "You wish to overtake a vehicle in front of you. When are you permitted to use your headlights to signal this intention?",
+      "options": {
+        "a": "At any time, provided you do not dazzle the other driver.",
+        "b": "Only in daylight, outside of built-up areas.",
+        "c": "Only at night, on unlit roads."
+      },
+      "correct_answer": "b",
+      "explanation": "Flashing headlights to signal overtaking is a specific exception permitted only during daylight hours and only outside built-up areas. Doing so at night or in town is not the standard signal and can be confusing or dazzling.",
+      "page_reference": 18,
+      "image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_text": "Your vehicle is being towed on the Highway. Which lighting regulation must be followed?",
+      "options": {
+        "a": "Both the towing vehicle and the towed vehicle must have hazard warning lights switched on.",
+        "b": "Only the vehicle being towed needs to use hazard warning lights.",
+        "c": "You must use dipped headlights on both vehicles to indicate a slow-moving convoy."
+      },
+      "correct_answer": "a",
+      "explanation": "To ensure maximum visibility and warn other high-speed traffic of the obstruction, BOTH vehicles involved in the towing operation must activate their hazard warning lights.",
+      "page_reference": 12,
+      "image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_text": "What is the specific rule of thumb for safe following distances on roads outside built-up areas?",
+      "options": {
+        "a": "Maintain a distance in metres equal to your full speedometer reading.",
+        "b": "Maintain a fixed distance of 5 car lengths regardless of speed.",
+        "c": "Maintain a distance in metres equal to half your speedometer reading."
+      },
+      "correct_answer": "c",
+      "explanation": "The book specifies that outside built-up areas, the minimum safe gap in metres is half your speed in km/h (e.g., at 120 km/h, keep a 60m gap).",
+      "page_reference": 17,
+      "image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_text": "Driving on a wet roadway requires a greater following distance. What is the physical reason for this?",
+      "options": {
+        "a": "Electronic ABS systems do not function on wet roads.",
+        "b": "Braking distances are significantly longer because tyre grip is reduced.",
+        "c": "The rain cools the brake discs, making them less effective."
+      },
+      "correct_answer": "b",
+      "explanation": "The primary factor is friction. Water between the tyre and road reduces grip, meaning the car travels further before stopping once brakes are applied. You need more space to accommodate this physical limit.",
+      "page_reference": 13,
+      "image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_text": "You are approaching this blind bend. What is the immediate danger you must prepare for?",
+      "options": {
+        "a": "The road surface is likely to change to gravel around the bend.",
+        "b": "There will be a stop sign immediately after the bend.",
+        "c": "Fast oncoming traffic may cut the corner and encroach into your lane."
+      },
+      "correct_answer": "c",
+      "explanation": "On blind bends, especially narrow ones, drivers coming the other way often 'straighten' the curve by crossing the center line. Since you cannot see them coming, this head-on risk is the most critical hazard to anticipate.",
+      "page_reference": 16,
+      "image_url": https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@f91b50fa0bfc85c342e19f5c2b7ae1ed70649461/CPT4-5_qz02-Q8.png
+    },
+    {
+      "question_number": 9,
+      "question_text": "What is the 'recommended speed' for cars and motorcycles on the Highway?",
+      "options": {
+        "a": "130 km/h.",
+        "b": "120 km/h.",
+        "c": "100 km/h."
+      },
+      "correct_answer": "a",
+      "explanation": "While 120 km/h is a common regulatory limit, the theory book specifies a 'recommended speed' of 130 km/h for light vehicles on Highways, assuming conditions allow.",
+      "page_reference": 11,
+      "image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_text": "What does this blue square sign with '3.5 t' indicate regarding lane discipline?",
+      "options": {
+        "a": "Vehicles over 3.5 tonnes must stay in the right-hand lane.",
+        "b": "Vehicles up to 3.5 tonnes permissible mass may freely choose their lane in built-up areas.",
+        "c": "The speed limit is 35 km/h for heavy vehicles."
+      },
+      "correct_answer": "b",
+      "explanation": "This sign indicates an exception to the 'keep left' rule. Inside built-up areas, lighter vehicles (up to 3.5t) can use any lane that suits their destination, rather than being forced to stay left.",
+      "page_reference": 9,
+      "image_url": https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@f91b50fa0bfc85c342e19f5c2b7ae1ed70649461/CPT4-5_qz02-Q10.png
+
+        },
+    {
+      "question_number": 11,
+      "question_text": "Which mechanical failure is known to cause a vehicle to suddenly veer sideways on a straight road?",
+      "options": {
+        "a": "A broken exhaust pipe.",
+        "b": "An overheated radiator.",
+        "c": "A burst tyre."
+      },
+      "correct_answer": "c",
+      "explanation": "A burst tyre creates an immediate imbalance in drag and traction, causing the vehicle to pull violently towards the side of the failed tyre. This is a specific mechanical cause of veering.",
+      "page_reference": 13,
+      "image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_text": "You encounter a short stretch of muddy road. Which action should you avoid to prevent skidding?",
+      "options": {
+        "a": "Making sudden steering wheel movements.",
+        "b": "Driving at a slow, steady speed.",
+        "c": "Keeping the steering wheel straight."
+      },
+      "correct_answer": "a",
+      "explanation": "On mud, traction is minimal. Any sudden demand on the tyres—like a sharp turn of the steering wheel—will exceed the available grip and initiate a skid. Smooth, minimal inputs are required.",
+      "page_reference": 14,
+      "image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_text": "Which category of pedestrians requires you to take special care?",
+      "options": {
+        "a": "Pedestrians walking on the pavement facing traffic.",
+        "b": "Adults waiting at a red traffic light.",
+        "c": "Children."
+      },
+      "correct_answer": "c",
+      "explanation": "Children are singled out for special care because they are impulsive, often do not understand traffic rules, and their small size makes them harder to see. Their behavior is unpredictable compared to adults.",
+      "page_reference": 18,
+      "image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_text": "Regardless of the road's general limit, what is the maximum speed for a car towing a trailer on the Highway?",
+      "options": {
+        "a": "100 km/h.",
+        "b": "80 km/h.",
+        "c": "60 km/h."
+      },
+      "correct_answer": "b",
+      "explanation": "Vehicles towing trailers are subject to a lower national speed limit to ensure stability and reduce stopping distances. This limit is 80 km/h.",
+      "page_reference": 12,
+      "image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_text": "How does 'environmentally friendly' driving positively impact safety?",
+      "options": {
+        "a": "It encourages avoiding high speeds, which reduces the frequency of dangerous situations.",
+        "b": "It relies on using the horn to warn pedestrians early.",
+        "c": "It requires you to drive with the engine off when going downhill."
+      },
+      "correct_answer": "a",
+      "explanation": "Eco-driving emphasizes anticipation and moderate speeds. By avoiding high speed, you inherently reduce the energy involved in a potential crash and give yourself more time to react to hazards.",
+      "page_reference": 21,
+      "image_url": null
+    }
+  ]
+}
