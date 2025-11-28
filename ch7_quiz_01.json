@@ -1,0 +1,215 @@
+{
+  "quiz_id": "ch7_quiz_01",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "What must you be prepared for when you see this traffic sign with a 10% indication?",
+      "options": {
+        "a": "The brakes may become less efficient with prolonged use on the downhill slope",
+        "b": "You should shift into neutral to save fuel",
+        "c": "Braking distance is shorter on the downhill slope"
+      },
+      "correct_answer": "a",
+      "explanation": "According to the danger signs section, on a steep downhill slope (indicated by percentage), braking distance increases and brakes may become less efficient if used prolongedly.",
+      "page_reference": 43,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@fc46888f244f29139e1f137e7091fe19f23b988d/CPT7_qz01-Q1.png",
+      "image_prompt": "Style: Clear driving manual illustration. Content: A triangular red warning sign with a black car on a slope pointing downwards and the text '10%' inside."
+    },
+    {
+      "question_number": 2,
+      "question_text": "What must you avoid when driving past roadworks marked by a 'Loose Stones' danger sign?",
+      "options": {
+        "a": "Driving slowly to prevent damage",
+        "b": "Sudden movements of the steering wheel",
+        "c": "Keeping a large following distance"
+      },
+      "correct_answer": "b",
+      "explanation": "When encountering loose stones or gravel, you must avoid sudden movements of the steering wheel and avoid braking heavily to prevent skidding.",
+      "page_reference": 46,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@fc46888f244f29139e1f137e7091fe19f23b988d/CPT7_qz01-Q2.png",
+      "image_prompt": "Style: Clear driving manual illustration. Content: A triangular red warning sign showing a car profile with gravel/stones flying up from the rear wheel."
+    },
+    {
+      "question_number": 3,
+      "question_text": "You see a triangular sign with a windsock symbol. What action should you take?",
+      "options": {
+        "a": "Accelerate to cut through the wind resistance",
+        "b": "Steer slightly in the same direction as the wind",
+        "c": "Reduce speed and be prepared to countersteer"
+      },
+      "correct_answer": "c",
+      "explanation": "This sign indicates side winds. The correct conduct is to reduce speed and be prepared to countersteer to maintain your lane.",
+      "page_reference": 49,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@fc46888f244f29139e1f137e7091fe19f23b988d/CPT7_qz01-Q3.png",
+      "image_prompt": "Style: Clear driving manual illustration. Content: A triangular red warning sign with a black windsock symbol inside."
+    },
+    {
+      "question_number": 4,
+      "question_text": "At a STOP sign, where exactly must you stop?",
+      "options": {
+        "a": "Only if there is oncoming traffic visible",
+        "b": "At the stopline and, if necessary, stop again at the sight line",
+        "c": "Slowly rolling past the line to see clearly"
+      },
+      "correct_answer": "b",
+      "explanation": "The rule requires stopping at the stopline. If visibility is poor, you must stop again at a point where you can see along the intersecting road (the sight line).",
+      "page_reference": 50,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@fc46888f244f29139e1f137e7091fe19f23b988d/CPT7_qz01-Q4.png",
+      "image_prompt": "Style: Realistic driver's view (Right-hand drive). Scene: Approaching an intersection with a solid white line across the left lane and an octagonal red STOP sign on the left."
+    },
+    {
+      "question_number": 5,
+      "question_text": "What does a blue circular sign with a red border and a red cross (X) indicate?",
+      "options": {
+        "a": "No parking, but stopping for less than 3 minutes is allowed",
+        "b": "No stopping",
+        "c": "No entry for motor vehicles"
+      },
+      "correct_answer": "b",
+      "explanation": "A blue circle with a red rim and a red cross indicates 'No stopping'. You may not stop at all (unless forced by traffic conditions).",
+      "page_reference": 52,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@fc46888f244f29139e1f137e7091fe19f23b988d/CPT7_qz01-Q5.png",
+      "image_prompt": "Style: Clear driving manual illustration. Content: A circular regulatory sign with a blue background, red border, and a red 'X' cross over it."
+    },
+    {
+      "question_number": 6,
+      "question_text": "When you see the 'School Bus' sign (yellow/green), what is the primary requirement?",
+      "options": {
+        "a": "Stop immediately regardless of traffic",
+        "b": "Sound your horn to warn the children",
+        "c": "Reduce your speed and be ready to brake"
+      },
+      "correct_answer": "c",
+      "explanation": "This sign warns of school buses and children. Drivers must reduce speed and be fully prepared to brake for children crossing.",
+      "page_reference": 51,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@fc46888f244f29139e1f137e7091fe19f23b988d/CPT7_qz01-Q6.png",
+      "image_prompt": "Style: Clear driving manual illustration. Content: A square sign (often yellow or green backing) showing a symbol of two children, or a bus symbol with text 'School Bus'."
+    },
+    {
+      "question_number": 7,
+      "question_text": "You see a solid white line in the centre of the roadway. What does this signify?",
+      "options": {
+        "a": "You may cross it to overtake if the road is clear",
+        "b": "You may not cross or straddle the line",
+        "c": "It indicates the edge of the carriageway"
+      },
+      "correct_answer": "b",
+      "explanation": "A continuous (solid) white line in the center of the road prohibits crossing or straddling the line for overtaking.",
+      "page_reference": 58,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@fc46888f244f29139e1f137e7091fe19f23b988d/CPT7_qz01-Q7.png",
+      "image_prompt": "Style: Realistic driver's view (Right-hand drive). Scene: Driving on a tarmac road. In the center of the road, there is a distinct solid white line separating the lanes."
+    },
+    {
+      "question_number": 8,
+      "question_text": "What does this 5,5t traffic sign indicate?",
+      "options": {
+        "a": "The actual mass of the vehicle",
+        "b": "The permissible total mass",
+        "c": "The maximum axle weight"
+      },
+      "correct_answer": "a",
+      "explanation": "When the value is shown on a circular sign with only 5,5 t, it often refers to the actual mass limit for safety reasons (e.g., bridges). Note: The book distinguishes between signs for permissible total mass and actual mass.",
+      "page_reference": 59,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@fc46888f244f29139e1f137e7091fe19f23b988d/CPT7_qz01-Q8.png",
+      "image_prompt": "Style: Clear driving manual illustration. Content: A circular regulatory sign with a red border, a black truck symbol, and the text '5,5t' inside."
+    },
+    {
+      "question_number": 9,
+      "question_text": "What is the meaning of a square blue sign with a white arrow pointing up and a red arrow pointing down?",
+      "options": {
+        "a": "You must give way to oncoming traffic",
+        "b": "You have precedence (priority) over oncoming traffic",
+        "c": "Two-way traffic starts ahead"
+      },
+      "correct_answer": "b",
+      "explanation": "This sign indicates that you have the right of way over vehicles approaching from the opposite direction at a narrow point.",
+      "page_reference": 62,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@fc46888f244f29139e1f137e7091fe19f23b988d/CPT7_qz01-Q9.png",
+      "image_prompt": "Style: Clear driving manual illustration. Content: A square blue sign with a large white arrow pointing up and a smaller red arrow pointing down."
+    },
+    {
+      "question_number": 10,
+      "question_text": "What does a green square sign with '55 km/h' and a traffic light symbol indicate?",
+      "options": {
+        "a": "The speed limit is 55 km/h",
+        "b": "Coordinated traffic lights (green wave) if driving at 55 km/h",
+        "c": "Traffic lights ahead change every 55 seconds"
+      },
+      "correct_answer": "b",
+      "explanation": "This sign indicates a 'green wave' system. If you maintain the average speed shown (55 km/h), you should reach the next traffic lights when they are green.",
+      "page_reference": 65,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@fc46888f244f29139e1f137e7091fe19f23b988d/CPT7_qz01-Q10.png",
+      "image_prompt": "Style: Clear driving manual illustration. Content: A green square sign displaying a traffic light signal symbol and the text '55 km/h'."
+    },
+    {
+      "question_number": 11,
+      "question_text": "What does a circular sign with a red border and the notation '2m' between two horizontal arrows indicate?",
+      "options": {
+        "a": "Prohibition for vehicles wider than 2m including load",
+        "b": "Prohibition for vehicles higher than 2m",
+        "c": "The lane is 2m wide"
+      },
+      "correct_answer": "a",
+      "explanation": "This is a width restriction sign. It prohibits entry for any vehicle whose width, including its load, exceeds the indicated measurement.",
+      "page_reference": 60,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@fc46888f244f29139e1f137e7091fe19f23b988d/CPT7_qz01-Q11.png",
+      "image_prompt": "Style: Clear driving manual illustration. Content: A circular regulatory sign with a red border. Inside is the text '2m' flanked by black arrows pointing inwards horizontally."
+    },
+    {
+      "question_number": 12,
+      "question_text": "You encounter a sign with three red diagonal stripes on a white background. What does this warn of?",
+      "options": {
+        "a": "A level crossing approximately 240 m ahead",
+        "b": "A level crossing approximately 100 m ahead",
+        "c": "A compulsory stop ahead"
+      },
+      "correct_answer": "a",
+      "explanation": "These marker beacons count down to a level crossing. Three stripes typically indicate a distance of approximately 240m (80m per stripe).",
+      "page_reference": 48,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@fc46888f244f29139e1f137e7091fe19f23b988d/CPT7_qz01-Q12.png",
+      "image_prompt": "Style: Clear driving manual illustration. Content: A vertical white rectangle beacon with three diagonal red stripes."
+    },
+    {
+      "question_number": 13,
+      "question_text": "When waiting at a closed level crossing barrier for a long time, what should you do to protect the environment?",
+      "options": {
+        "a": "Switch off the engine",
+        "b": "Keep the engine idling to maintain battery charge",
+        "c": "Rev the engine occasionally to warn others"
+      },
+      "correct_answer": "a",
+      "explanation": "To save fuel and reduce air pollution, you should switch off your engine when waiting for a long time, such as at closed level crossing barriers.",
+      "page_reference": 70,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@fc46888f244f29139e1f137e7091fe19f23b988d/CPT7_qz01-Q13.png",
+      "image_prompt": "Style: Realistic driver's view (Right-hand drive). Scene: Waiting behind a lowered railway barrier. The dashboard is visible."
+    },
+    {
+      "question_number": 14,
+      "question_text": "What does a blue square sign showing a white 'T' shape with a red bar at the top indicate?",
+      "options": {
+        "a": "A no-through road (cul-de-sac)",
+        "b": "A T-junction where you have priority",
+        "c": "A taxi rank ahead"
+      },
+      "correct_answer": "a",
+      "explanation": "This sign indicates a cul-de-sac or dead-end road, meaning there is no exit at the other end for vehicles.",
+      "page_reference": 64,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@fc46888f244f29139e1f137e7091fe19f23b988d/CPT7_qz01-Q14.png",
+      "image_prompt": "Style: Clear driving manual illustration. Content: A blue square sign with a white vertical line capped by a red horizontal bar (resembling a T)."
+    },
+    {
+      "question_number": 15,
+      "question_text": "What does a sign showing a white arrow curving to the left on a blue background imply?",
+      "options": {
+        "a": "You must turn left ahead",
+        "b": "The road bends to the left",
+        "c": "You must pass the obstacle on the left"
+      },
+      "correct_answer": "c",
+      "explanation": "A blue circle with a white arrow pointing diagonally down to the left indicates that you must pass the obstacle (such as a traffic island) on the left side.",
+      "page_reference": 53,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@fc46888f244f29139e1f137e7091fe19f23b988d/CPT7_qz01-Q15.png",
+      "image_prompt": "Style: Clear driving manual illustration. Content: A circular blue sign with a white arrow pointing diagonally downwards to the left."
+    }
+  ]
+}
