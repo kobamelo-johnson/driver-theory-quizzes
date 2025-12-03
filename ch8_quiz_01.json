@@ -134,7 +134,7 @@
         "c": "They take up more road space than cars"
       },
       "correct_answer": "a",
-      "explanation": "Due to their small profile, motorcycles can be hidden in blind spots ('easily overlooked'), and drivers often misjudge how fast they are approaching.",
+      "explanation": "Due to their small profile, motorcycles can be hidden in blind spots and drivers often misjudge how fast they are approaching.",
       "page_reference": 77,
       "image_url": null,
       "book_image_reference": null
@@ -176,7 +176,7 @@
         "c": "Sound your horn to warn the pedestrian to stay back"
       },
       "correct_answer": "b",
-      "explanation": "The van has stopped at a crossing (likely to let a pedestrian pass). You must stop and let the pedestrian cross; overtaking here is forbidden.",
+      "explanation": "The van has stopped at a crossing (likely to let a pedestrian pass). Overtaking here is forbidden. You must stop and let the pedestrian cross.",
       "page_reference": 79,
       "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@d0c78196bfea665ad0299a74011462f7c49d6373/CPT8_qz01-Q12.png",
       "book_image_reference": {
@@ -226,7 +226,7 @@
       "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@d0c78196bfea665ad0299a74011462f7c49d6373/CPT8_qz01-Q15.png",
       "book_image_reference": {
         "page": 80,
-        "question_index": "7"
+        "question_index": 1
       }
     }
   ]
