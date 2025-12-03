@@ -1,0 +1,233 @@
+{
+  "quiz_id": "ch8_quiz_01",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "You are driving in a quiet residential area with very little traffic. What hazard must you specifically reckon with?",
+      "options": {
+        "a": "Pedestrians will always walk on the right side of the road facing traffic",
+        "b": "Children at play may often run onto the roadway suddenly",
+        "c": "Vehicles will always park on the shoulder"
+      },
+      "correct_answer": "b",
+      "explanation": "In residential areas, children often play near the street and may run onto the roadway without looking. Drivers must expect this reckless behavior.",
+      "page_reference": 71,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 2,
+      "question_text": "What must you be prepared for in this situation?",
+      "options": {
+        "a": "The children will wait on the pavement until you pass",
+        "b": "One of the children could turn back to collect the ball",
+        "c": "The ball will stop rolling before it enters your lane"
+      },
+      "correct_answer": "b",
+      "explanation": "When children are playing with a ball near the road, a child often runs back impulsively to retrieve the ball without checking for traffic.",
+      "page_reference": 72,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@d0c78196bfea665ad0299a74011462f7c49d6373/CPT8_qz01-Q2.png",
+      "book_image_reference": {
+        "page": 72,
+        "question_index": 9
+      }
+    },
+    {
+      "question_number": 3,
+      "question_text": "You see a pedestrian with a white stick waiting to cross the road. What does this indicate and what must you do?",
+      "options": {
+        "a": "The pedestrian is a traffic census officer; you should stop and give details",
+        "b": "The pedestrian is blind; you must reduce speed and stop if necessary to let them cross",
+        "c": "The pedestrian is signaling for a taxi; you may proceed if you are not a taxi"
+      },
+      "correct_answer": "b",
+      "explanation": "A white stick identifies a blind or visually impaired pedestrian. Drivers must exercise extreme caution, reduce speed, and be prepared to stop.",
+      "page_reference": 73,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 4,
+      "question_text": "When approaching elderly pedestrians crossing the road, what behavior should you anticipate?",
+      "options": {
+        "a": "They often turn back or stop in the middle of the roadway unexpectedly",
+        "b": "They will always run quickly to the other side to avoid delaying traffic",
+        "c": "They are able to judge vehicle speed more accurately than children"
+      },
+      "correct_answer": "a",
+      "explanation": "Elderly pedestrians may be unsure or frightened by traffic and can behave erratically, such as stopping or turning back halfway across the street.",
+      "page_reference": 73,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 5,
+      "question_text": "What must you heed in this situation?",
+      "options": {
+        "a": "You may pass the stationary bus at walking speed provided you are sure that passengers are not endangered",
+        "b": "You must honk to warn the pedestrians before passing",
+        "c": "You must stop and wait until the bus moves off"
+      },
+      "correct_answer": "a",
+      "explanation": "When a bus is stationary (even at a fuel station or stop), you may pass slowly, but only if you are certain pedestrians are safe.",
+      "page_reference": 74,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@d0c78196bfea665ad0299a74011462f7c49d6373/CPT8_qz01-Q5.png",
+      "book_image_reference": {
+        "page": 74,
+        "question_index": 21
+      }
+    },
+    {
+      "question_number": 6,
+      "question_text": "What must you remember at these bus stops?",
+      "options": {
+        "a": "Pedestrians will always use the crosswalk behind the bus",
+        "b": "Pedestrians sometimes step off the roadway without paying attention",
+        "c": "Pedestrians are not allowed to cross until the bus leaves"
+      },
+      "correct_answer": "b",
+      "explanation": "Pedestrians near bus stops often rush to catch the bus or step off the curb distractedly without checking for oncoming traffic.",
+      "page_reference": 75,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@d0c78196bfea665ad0299a74011462f7c49d6373/CPT8_qz01-Q6.png",
+      "book_image_reference": {
+        "page": 75,
+        "question_index": 24
+      }
+    },
+    {
+      "question_number": 7,
+      "question_text": "Why are elderly pedestrians considered to be at higher risk in traffic?",
+      "options": {
+        "a": "They are often less agile and cannot judge vehicle speed accurately",
+        "b": "They tend to walk aggressively into traffic to force cars to stop",
+        "c": "They usually wear dark clothing that makes them invisible"
+      },
+      "correct_answer": "a",
+      "explanation": "Physical limitations such as poorer eyesight, hearing, and slower reaction times, combined with difficulty judging speed, make elderly pedestrians vulnerable.",
+      "page_reference": 75,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 8,
+      "question_text": "When can a cyclist represent a danger for you?",
+      "options": {
+        "a": "When the cyclist signals clearly before turning",
+        "b": "When the cyclist switches to the roadway without paying attention to the traffic",
+        "c": "When the cyclist stays in the cycle lane"
+      },
+      "correct_answer": "b",
+      "explanation": "Cyclists merging from the shoulder or a path onto the main road may not look back, creating a collision risk for drivers approaching from behind.",
+      "page_reference": 76,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@d0c78196bfea665ad0299a74011462f7c49d6373/CPT8_qz01-Q8.png",
+      "book_image_reference": {
+        "page": 76,
+        "question_index": 32
+      }
+    },
+    {
+      "question_number": 9,
+      "question_text": "Why are motorcycles particularly dangerous for car drivers to interact with?",
+      "options": {
+        "a": "They are easily overlooked and their speed is often underestimated",
+        "b": "They are too loud and distract drivers",
+        "c": "They take up more road space than cars"
+      },
+      "correct_answer": "a",
+      "explanation": "Due to their small profile, motorcycles can be hidden in blind spots ('easily overlooked'), and drivers often misjudge how fast they are approaching.",
+      "page_reference": 77,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 10,
+      "question_text": "Which vehicles must you allow to set off from marked bus stops?",
+      "options": {
+        "a": "Regular buses and school buses",
+        "b": "Taxis and private cars",
+        "c": "Delivery trucks"
+      },
+      "correct_answer": "a",
+      "explanation": "Regular public transport buses and school buses have priority when leaving a marked stop. You must yield to let them merge.",
+      "page_reference": 77,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 11,
+      "question_text": "What conduct must you expect of children at zebra crossings?",
+      "options": {
+        "a": "They will turn around on the zebra crossing for no apparent reason and run back",
+        "b": "They will wait patiently until all cars have stopped",
+        "c": "They will only cross when an adult is present"
+      },
+      "correct_answer": "a",
+      "explanation": "Children are unpredictable. Even after starting to cross, they may suddenly turn around and run back to the starting side.",
+      "page_reference": 78,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 12,
+      "question_text": "What do you do in this situation?",
+      "options": {
+        "a": "Overtake the van carefully on the right",
+        "b": "I let the pedestrian cross the roadway",
+        "c": "Sound your horn to warn the pedestrian to stay back"
+      },
+      "correct_answer": "b",
+      "explanation": "The van has stopped at a crossing (likely to let a pedestrian pass). You must stop and let the pedestrian cross; overtaking here is forbidden.",
+      "page_reference": 79,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@d0c78196bfea665ad0299a74011462f7c49d6373/CPT8_qz01-Q12.png",
+      "book_image_reference": {
+        "page": 79,
+        "question_index": 8
+      }
+    },
+    {
+      "question_number": 13,
+      "question_text": "A truck stops in the left lane at a zebra crossing. You are driving in the right lane. What do you do?",
+      "options": {
+        "a": "Wait because pedestrians might be crossing the roadway in front of the truck",
+        "b": "Proceed cautiously because you have the right of way in your lane",
+        "c": "Accelerate to pass the truck before any pedestrians appear"
+      },
+      "correct_answer": "a",
+      "explanation": "If a vehicle stops at a crossing, it is almost certainly for a pedestrian. Even if you cannot see them concealed by the truck, you must stop.",
+      "page_reference": 79,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 14,
+      "question_text": "Why is it particularly important to brake in good time when approaching a zebra crossing?",
+      "options": {
+        "a": "So that pedestrians are not scared or made insecure",
+        "b": "To test your brake pads",
+        "c": "Because the road surface is always slippery there"
+      },
+      "correct_answer": "a",
+      "explanation": "Approaching fast frightens pedestrians. Braking early signals your intent to yield, giving them the confidence to cross safely.",
+      "page_reference": 79,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 15,
+      "question_text": "Look at the diagram. You are the Red car and you want to go straight (taking the 2nd exit). Which path is correct?",
+      "options": {
+        "a": "The path taken by the Blue car",
+        "b": "The path taken by the Red car",
+        "c": "Neither path is correct"
+      },
+      "correct_answer": "b",
+      "explanation": "When going straight through a roundabout (12 o'clock), you should typically stay in the left (outside) lane, as shown by the red arrow.",
+      "page_reference": 80,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@d0c78196bfea665ad0299a74011462f7c49d6373/CPT8_qz01-Q15.png",
+      "book_image_reference": {
+        "page": 80,
+        "question_index": "Top Diagram"
+      }
+    }
+  ]
+}
