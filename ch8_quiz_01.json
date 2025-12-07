@@ -12,8 +12,7 @@
       "correct_answer": "b",
       "explanation": "In residential areas, children often play near the street and may run onto the roadway without looking. Drivers must expect this reckless behavior.",
       "page_reference": 71,
-      "image_url": null,
-      "book_image_reference": null
+      "image_url": null
     },
     {
       "question_number": 2,
@@ -26,11 +25,7 @@
       "correct_answer": "b",
       "explanation": "When children are playing with a ball near the road, a child often runs back impulsively to retrieve the ball without checking for traffic.",
       "page_reference": 72,
-      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@d0c78196bfea665ad0299a74011462f7c49d6373/CPT8_qz01-Q2.png",
-      "book_image_reference": {
-        "page": 72,
-        "question_index": 9
-      }
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@d0c78196bfea665ad0299a74011462f7c49d6373/CPT8_qz01-Q2.png"
     },
     {
       "question_number": 3,
@@ -43,8 +38,7 @@
       "correct_answer": "b",
       "explanation": "A white stick identifies a blind or visually impaired pedestrian. Drivers must exercise extreme caution, reduce speed, and be prepared to stop.",
       "page_reference": 73,
-      "image_url": null,
-      "book_image_reference": null
+      "image_url": null
     },
     {
       "question_number": 4,
@@ -57,8 +51,7 @@
       "correct_answer": "a",
       "explanation": "Elderly pedestrians may be unsure or frightened by traffic and can behave erratically, such as stopping or turning back halfway across the street.",
       "page_reference": 73,
-      "image_url": null,
-      "book_image_reference": null
+      "image_url": null
     },
     {
       "question_number": 5,
@@ -71,11 +64,7 @@
       "correct_answer": "a",
       "explanation": "When a bus is stationary (even at a fuel station or stop), you may pass slowly, but only if you are certain pedestrians are safe.",
       "page_reference": 74,
-      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@d0c78196bfea665ad0299a74011462f7c49d6373/CPT8_qz01-Q5.png",
-      "book_image_reference": {
-        "page": 74,
-        "question_index": 21
-      }
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@d0c78196bfea665ad0299a74011462f7c49d6373/CPT8_qz01-Q5.png"
     },
     {
       "question_number": 6,
@@ -88,11 +77,7 @@
       "correct_answer": "b",
       "explanation": "Pedestrians near bus stops often rush to catch the bus or step off the curb distractedly without checking for oncoming traffic.",
       "page_reference": 75,
-      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@d0c78196bfea665ad0299a74011462f7c49d6373/CPT8_qz01-Q6.png",
-      "book_image_reference": {
-        "page": 75,
-        "question_index": 24
-      }
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@d0c78196bfea665ad0299a74011462f7c49d6373/CPT8_qz01-Q6.png"
     },
     {
       "question_number": 7,
@@ -105,8 +90,7 @@
       "correct_answer": "a",
       "explanation": "Physical limitations such as poorer eyesight, hearing, and slower reaction times, combined with difficulty judging speed, make elderly pedestrians vulnerable.",
       "page_reference": 75,
-      "image_url": null,
-      "book_image_reference": null
+      "image_url": null
     },
     {
       "question_number": 8,
@@ -119,11 +103,7 @@
       "correct_answer": "b",
       "explanation": "Cyclists merging from the shoulder or a path onto the main road may not look back, creating a collision risk for drivers approaching from behind.",
       "page_reference": 76,
-      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@d0c78196bfea665ad0299a74011462f7c49d6373/CPT8_qz01-Q8.png",
-      "book_image_reference": {
-        "page": 76,
-        "question_index": 32
-      }
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@d0c78196bfea665ad0299a74011462f7c49d6373/CPT8_qz01-Q8.png"
     },
     {
       "question_number": 9,
@@ -136,8 +116,7 @@
       "correct_answer": "a",
       "explanation": "Due to their small profile, motorcycles can be hidden in blind spots and drivers often misjudge how fast they are approaching.",
       "page_reference": 77,
-      "image_url": null,
-      "book_image_reference": null
+      "image_url": null
     },
     {
       "question_number": 10,
@@ -150,8 +129,7 @@
       "correct_answer": "a",
       "explanation": "Regular public transport buses and school buses have priority when leaving a marked stop. You must yield to let them merge.",
       "page_reference": 77,
-      "image_url": null,
-      "book_image_reference": null
+      "image_url": null
     },
     {
       "question_number": 11,
@@ -164,8 +142,7 @@
       "correct_answer": "a",
       "explanation": "Children are unpredictable. Even after starting to cross, they may suddenly turn around and run back to the starting side.",
       "page_reference": 78,
-      "image_url": null,
-      "book_image_reference": null
+      "image_url": null
     },
     {
       "question_number": 12,
@@ -178,11 +155,7 @@
       "correct_answer": "b",
       "explanation": "The van has stopped at a crossing (likely to let a pedestrian pass). Overtaking here is forbidden. You must stop and let the pedestrian cross.",
       "page_reference": 79,
-      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@d0c78196bfea665ad0299a74011462f7c49d6373/CPT8_qz01-Q12.png",
-      "book_image_reference": {
-        "page": 79,
-        "question_index": 8
-      }
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@d0c78196bfea665ad0299a74011462f7c49d6373/CPT8_qz01-Q12.png"
     },
     {
       "question_number": 13,
@@ -195,8 +168,7 @@
       "correct_answer": "a",
       "explanation": "If a vehicle stops at a crossing, it is almost certainly for a pedestrian. Even if you cannot see them concealed by the truck, you must stop.",
       "page_reference": 79,
-      "image_url": null,
-      "book_image_reference": null
+      "image_url": null
     },
     {
       "question_number": 14,
@@ -209,8 +181,7 @@
       "correct_answer": "a",
       "explanation": "Approaching fast frightens pedestrians. Braking early signals your intent to yield, giving them the confidence to cross safely.",
       "page_reference": 79,
-      "image_url": null,
-      "book_image_reference": null
+      "image_url": null
     },
     {
       "question_number": 15,
@@ -223,11 +194,7 @@
       "correct_answer": "b",
       "explanation": "When going straight through a roundabout (12 o'clock), you should typically stay in the left (outside) lane, as shown by the red arrow.",
       "page_reference": 80,
-      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@d0c78196bfea665ad0299a74011462f7c49d6373/CPT8_qz01-Q15.png",
-      "book_image_reference": {
-        "page": 80,
-        "question_index": 1
-      }
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@d0c78196bfea665ad0299a74011462f7c49d6373/CPT8_qz01-Q15.png"
     }
   ]
 }
