@@ -1,0 +1,227 @@
+{
+  "quiz_id": "ch9_quiz_01",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "You want to pull out of a driveway across the pavement onto the roadway. What must you look out for first?",
+      "options": {
+        "a": "Children playing and pedestrians",
+        "b": "The speed of traffic on the main road",
+        "c": "Whether your car is clean"
+      },
+      "correct_answer": "a",
+      "explanation": "Before your vehicle even reaches the roadway, it must cross the pavement. Your first priority is to check for pedestrians and children who may be on that pavement.",
+      "page_reference": 81,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 2,
+      "question_text": "By mistake, you have taken the right-hand lane but wish to turn left. What do you do?",
+      "options": {
+        "a": "Stop and reverse into the correct lane",
+        "b": "Proceed straight ahead or turn right",
+        "c": "Turn left from the right-hand lane"
+      },
+      "correct_answer": "b",
+      "explanation": "If you find yourself in the wrong lane at an intersection, you must not make a sudden or illegal turn. You must follow the direction indicated for the lane you are in.",
+      "page_reference": 82,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@beaca66f4c472c81eae3b087fee7f6f337f9fbec/CPT9_qz01-Q2.png",
+      "book_image_reference": {
+        "page": 82,
+        "question_index": 1
+      }
+    },
+    {
+      "question_number": 3,
+      "question_text": "What is a key principle of the zipper feed-in method when a lane comes to an end?",
+      "options": {
+        "a": "Drivers in the continuing lane must allow vehicles from the ending lane to move in",
+        "b": "Drivers in the ending lane must stop and wait for a large gap",
+        "c": "The larger vehicle always has priority"
+      },
+      "correct_answer": "a",
+      "explanation": "The zipper feed-in method requires co-operation. Drivers in the lane that is continuing must allow vehicles from the lane that is ending to merge one by one, like a zipper.",
+      "page_reference": 82,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 4,
+      "question_text": "You are approaching the vehicles in this picture. What must you do?",
+      "options": {
+        "a": "Watch if the truck and trailer remain on the hard shoulder",
+        "b": "Accelerate and pass before the truck has a chance to move",
+        "c": "Flash your headlights to assert your right of way"
+      },
+      "correct_answer": "a",
+      "explanation": "When approaching a large vehicle on the hard shoulder, you must be prepared for it to enter the roadway. The correct action is to watch it carefully and anticipate its movements.",
+      "page_reference": 83,
+      "image_url": https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@beaca66f4c472c81eae3b087fee7f6f337f9fbec/CPT9_qz01-Q4.png",
+      "book_image_reference": {
+        "page": 83,
+        "question_index": 9
+      }
+    },
+    {
+      "question_number": 5,
+      "question_text": "Is it irresponsible to overtake a truck and trailer before a crossroads?",
+      "options": {
+        "a": "No, it is safe as long as you accelerate quickly",
+        "b": "Yes, because the truck and trailer can obscure the view of the crossing traffic",
+        "c": "No, trucks are required to yield to overtaking cars"
+      },
+      "correct_answer": "b",
+      "explanation": "Overtaking a large vehicle near a crossroads is extremely dangerous because it can completely block your view of traffic that may be entering from the side road.",
+      "page_reference": 85,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 6,
+      "question_text": "What must you reckon with in this situation?",
+      "options": {
+        "a": "The cyclist will stop for you",
+        "b": "The cyclist will pass the parked car on the left",
+        "c": "The cyclist will stay behind the parked car"
+      },
+      "correct_answer": "b",
+      "explanation": "You must anticipate that the cyclist will manoeuvre around the parked car by moving left into your path. You also have to be aware of potential oncoming traffic.",
+      "page_reference": 85,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@beaca66f4c472c81eae3b087fee7f6f337f9fbec/CPT9_qz01-Q6.png",
+      "book_image_reference": {
+        "page": 85,
+        "question_index": 9
+      }
+    },
+    {
+      "question_number": 7,
+      "question_text": "In which instances is overtaking always prohibited?",
+      "options": {
+        "a": "When it is raining",
+        "b": "At blind spots",
+        "c": "On roads with a speed limit of 60 km/h"
+      },
+      "correct_answer": "b",
+      "explanation": "Overtaking is always prohibited at blind spots (crests of hills, sharp corners) where you do not have a clear and sufficient view of the road ahead.",
+      "page_reference": 87,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 8,
+      "question_text": "Why could overtaking be dangerous in this situation?",
+      "options": {
+        "a": "The road ahead is clear for overtaking",
+        "b": "The other cars are driving too slowly",
+        "c": "Slush could be thrown up and impair visibility"
+      },
+      "correct_answer": "c",
+      "explanation": "Driving through slush at speed can throw it up onto your windscreen, suddenly and severely impairing your visibility, which is extremely dangerous while in the opposing lane.",
+      "page_reference": 88,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@beaca66f4c472c81eae3b087fee7f6f337f9fbec/CPT9_qz01-Q8.png",
+      "book_image_reference": {
+        "page": 88,
+        "question_index": 29
+      }
+    },
+    {
+      "question_number": 9,
+      "question_text": "What must you do when a car is overtaking you, but oncoming traffic has come dangerously close?",
+      "options": {
+        "a": "Accelerate to create more space behind you",
+        "b": "Maintain your speed and position",
+        "c": "Reduce speed and drive as far as possible over on the left"
+      },
+      "correct_answer": "c",
+      "explanation": "To help avoid a head-on collision, you must assist the overtaking driver by reducing your speed and moving as far to the left as is safe, creating more space for them to pull in.",
+      "page_reference": 89,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 10,
+      "question_text": "You are driving on a road in heavy traffic and have moved into the lane for turning left. At the crossroads, you realize that you wanted to turn right. What do you do?",
+      "options": {
+        "a": "Turn left and accept that you have to make a detour",
+        "b": "Stop in the intersection and wait to merge right",
+        "c": "Quickly cut across the lanes to turn right"
+      },
+      "correct_answer": "a",
+      "explanation": "Once you are committed to a lane at a crossroads, you must follow through. The safe and correct action is to make the left turn and find another route (make a detour).",
+      "page_reference": 90,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 11,
+      "question_text": "You are waiting at a traffic light and want to turn right. What should you remember?",
+      "options": {
+        "a": "You must make sure there is no road user beside you on the right intending to go straight on",
+        "b": "You have absolute priority as soon as the light turns green",
+        "c": "You should turn before checking for cyclists or pedestrians"
+      },
+      "correct_answer": "a",
+      "explanation": "When turning right, you must be vigilant for cyclists or other road users who may be proceeding straight on from your right side, as they have the right of way.",
+      "page_reference": 90,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 12,
+      "question_text": "You want to turn right. Who must you give way to?",
+      "options": {
+        "a": "You have priority over all other road users",
+        "b": "Pedestrians wishing to cross the road you are turning into",
+        "c": "Only oncoming motor vehicles"
+      },
+      "correct_answer": "b",
+      "explanation": "When turning, you must always give way to pedestrians who are crossing the road you are entering.",
+      "page_reference": 92,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 13,
+      "question_text": "What can give rise to particularly dangerous situations where several lanes turn off?",
+      "options": {
+        "a": "Driving too fast",
+        "b": "Following the road markings carefully",
+        "c": "Keeping a large following distance"
+      },
+      "correct_answer": "a",
+      "explanation": "Driving too fast or changing lanes while turning can be very dangerous in multi-lane turning situations, as it reduces reaction time and can lead to collisions.",
+      "page_reference": 92,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 14,
+      "question_text": "You want to turn left into a priority road. To which road users you pay particular attention?",
+      "options": {
+        "a": "Only to vehicles approaching from the right",
+        "b": "Vehicles approaching from the left and from the right",
+        "c": "Only to pedestrians on the pavement"
+      },
+      "correct_answer": "b",
+      "explanation": "When entering a priority road, you must give way to all traffic already on that road, which means paying attention to vehicles from both directions.",
+      "page_reference": 95,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 15,
+      "question_text": "What must you do when reversing?",
+      "options": {
+        "a": "Drive with particular attention and slowly",
+        "b": "Reverse quickly to avoid obstructing traffic",
+        "c": "Rely only on your rear-view mirror"
+      },
+      "correct_answer": "a",
+      "explanation": "Reversing is a dangerous manoeuvre. It must always be done slowly and with particular attention to your surroundings, checking all mirrors and blind spots.",
+      "page_reference": 95,
+      "image_url": null,
+      "book_image_reference": null
+    }
+  ]
+}
