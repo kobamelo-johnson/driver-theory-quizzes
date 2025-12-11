@@ -1,0 +1,215 @@
+{
+  "quiz_id": "ch11-12_quiz_01",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "You turn from a brightly lit road into an unlit road. What is one of the main dangers you have to bear in mind?",
+      "options": {
+        "a": "Your vehicle's battery may drain faster.",
+        "b": "Eyes adapt only slowly to darkness.",
+        "c": "The road surface is likely to be more slippery."
+      },
+      "correct_answer": "b",
+      "explanation": "When moving from a bright area to a dark one, human eyes take time to adjust. During this period, your ability to see hazards is significantly reduced. This is a key danger to anticipate.",
+      "page_reference": 103,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 2,
+      "question_text": "When encountering a line of oncoming cars with dipped headlights during daytime in autumn, what should you primarily reckon with?",
+      "options": {
+        "a": "Sudden banks of fog.",
+        "b": "The drivers are signalling a police checkpoint ahead.",
+        "c": "That the road ahead is clear for overtaking."
+      },
+      "correct_answer": "a",
+      "explanation": "In autumn, daytime headlights can indicate that drivers are proceeding through intermittent or sudden banks of fog, and you should be prepared for reduced visibility.",
+      "page_reference": 103,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 3,
+      "question_text": "Several deer run across the road in front of your vehicle. What is a key thing to remember in this situation?",
+      "options": {
+        "a": "The first deer is always the last one to cross.",
+        "b": "The herd may come back and cross the road again.",
+        "c": "You should accelerate to pass the area before more appear."
+      },
+      "correct_answer": "b",
+      "explanation": "Animals, especially in herds, can be unpredictable. After the main group has crossed, you must remain cautious as they may get spooked and suddenly turn back into your path.",
+      "page_reference": 103,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 4,
+      "question_text": "After being involved in an accident with a game animal, what is one of your responsibilities?",
+      "options": {
+        "a": "You must attempt to move the animal off the road yourself.",
+        "b": "You are only required to report it if your vehicle is damaged.",
+        "c": "Inform the police or the nearest Council office."
+      },
+      "correct_answer": "c",
+      "explanation": "Regardless of the damage to your vehicle, you have a duty to report any accident involving a game animal to the proper authorities, such as the police or a local council office.",
+      "page_reference": 104,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 5,
+      "question_text": "When is it permissible to switch on fog headlamps?",
+      "options": {
+        "a": "In rain.",
+        "b": "On any unlit road at night.",
+        "c": "As soon as twilight begins."
+      },
+      "correct_answer": "a",
+      "explanation": "Fog headlamps are permitted when visibility is considerably reduced. The manual specifies this includes conditions such as rain, falling hail, and fog.",
+      "page_reference": 104,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 6,
+      "question_text": "What is a danger presented when you drive on full beam?",
+      "options": {
+        "a": "It uses significantly more fuel.",
+        "b": "It can damage the road surface from the heat.",
+        "c": "Game animals on the road are dazzled and 'freeze' in the beam of light."
+      },
+      "correct_answer": "c",
+      "explanation": "The intense glare of full beam headlights can cause animals to become disoriented and stop in place, making a collision more likely. This is why you should dip your lights when animals appear.",
+      "page_reference": 104,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 7,
+      "question_text": "When you are driving, how can you tell whether the headlights are switched on full beam?",
+      "options": {
+        "a": "By a green indicator light.",
+        "b": "By a blue indicator light.",
+        "c": "By a red indicator light."
+      },
+      "correct_answer": "b",
+      "explanation": "The universal symbol on a vehicle's dashboard to indicate that the full beam headlights are activated is a blue indicator light.",
+      "page_reference": 105,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 8,
+      "question_text": "When must you at least switch on side lights (parking lights) in twilight or darkness?",
+      "options": {
+        "a": "When the vehicle is parked on the hard shoulder outside built-up areas.",
+        "b": "Only when you are leaving the vehicle for more than 5 minutes.",
+        "c": "It is never sufficient to use only side lights."
+      },
+      "correct_answer": "a",
+      "explanation": "To ensure your parked vehicle is visible to other road users in low light conditions, you must use at least side lights when parked on the hard shoulder outside of built-up areas.",
+      "page_reference": 106,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 9,
+      "question_text": "You hear a siren. Which of the following questions must you ask yourself?",
+      "options": {
+        "a": "Could I obstruct the emergency vehicle?",
+        "b": "What type of emergency is it?",
+        "c": "Is the siren getting louder or quieter?"
+      },
+      "correct_answer": "a",
+      "explanation": "Upon hearing a siren, your immediate responsibility is to assess your position relative to the emergency vehicle and ensure you do not impede its progress.",
+      "page_reference": 106,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 10,
+      "question_text": "If you are involved in a traffic accident, what is one of your duties?",
+      "options": {
+        "a": "You must inform the police that you were involved.",
+        "b": "You must only stop if you believe you were at fault.",
+        "c": "You must move your vehicle immediately, regardless of injuries."
+      },
+      "correct_answer": "a",
+      "explanation": "Regardless of who is at fault, any driver involved in a traffic accident is required to inform the police about their involvement.",
+      "page_reference": 107,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 11,
+      "question_text": "You are the first person to arrive at the scene of an accident with injured persons. What is the absolute first priority?",
+      "options": {
+        "a": "Make the scene of the accident safe.",
+        "b": "Call the emergency services.",
+        "c": "Check the injured persons for consciousness."
+      },
+      "correct_answer": "a",
+      "explanation": "Before any other action is taken, the scene must be made safe (e.g., by using hazard lights, a warning triangle) to prevent further collisions and protect yourself and the injured.",
+      "page_reference": 108,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 12,
+      "question_text": "For which purpose do you have to obtain a Driving Instructor Certificate from the Licencing Authority?",
+      "options": {
+        "a": "If I teach for hire or reward.",
+        "b": "If I want to teach a family member to drive.",
+        "c": "If I work for a company that owns more than 10 vehicles."
+      },
+      "correct_answer": "a",
+      "explanation": "A professional Driving Instructor Certificate is required if you are teaching another person to drive as a paid service (for hire or reward).",
+      "page_reference": 109,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 13,
+      "question_text": "What is one of the important reasons for the high risk of accidents involving young drivers?",
+      "options": {
+        "a": "Many young drivers rely too much on the safety of their vehicles.",
+        "b": "Young drivers are often better at assessing risks than older drivers.",
+        "c": "Young drivers tend to drive more slowly than the flow of traffic."
+      },
+      "correct_answer": "a",
+      "explanation": "A potential cause of accidents is overconfidence in modern vehicle safety features, which can lead young drivers to take more risks than they otherwise would.",
+      "page_reference": 111,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 14,
+      "question_text": "What is the current trial (learner) period for a new driving licence?",
+      "options": {
+        "a": "12 months.",
+        "b": "6 months.",
+        "c": "24 months."
+      },
+      "correct_answer": "b",
+      "explanation": "A newly qualified driver is subject to a 6-month trial or probationary period.",
+      "page_reference": 111,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 15,
+      "question_text": "A group of young people are singing and laughing loudly in a car at night. How should the driver react?",
+      "options": {
+        "a": "Turn up the volume on the car radio to join in the fun.",
+        "b": "Ask the passengers not to divert his attention.",
+        "c": "Stop the car and refuse to drive until everyone is quiet."
+      },
+      "correct_answer": "b",
+      "explanation": "The driver is responsible for safety and must remain focused. In such a situation, the driver should distance themselves from the distracting behaviour and ask passengers to be less distracting.",
+      "page_reference": 111,
+      "image_url": null,
+      "book_image_reference": null
+    }
+  ]
+}
