@@ -1,0 +1,218 @@
+{
+  "quiz_id": "ch10_quiz_01",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Where is stopping strictly prohibited, regardless of the circumstances?",
+      "options": {
+        "a": "On narrow sections of the road and at blind spots.",
+        "b": "On the hard shoulder of a highway.",
+        "c": "In front of residential driveways."
+      },
+      "correct_answer": "a",
+      "explanation": "According to the rules, stopping is prohibited on narrow sections of the road and at blind spots as it creates a significant hazard.",
+      "page_reference": 97,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 2,
+      "question_text": "What is the legal definition of being 'parked'?",
+      "options": {
+        "a": "Stopping for more than 1 minute without switching off the engine.",
+        "b": "Anyone who stops for more than 3 minutes or who leaves their vehicle.",
+        "c": "Leaving the vehicle for any amount of time, even if the engine is running."
+      },
+      "correct_answer": "b",
+      "explanation": "A driver is considered to be parking if they stop for more than 3 minutes or if they leave the vehicle.",
+      "page_reference": 97,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 3,
+      "question_text": "What is the minimum distance you must leave clear when stopping or parking before a pedestrian crossing?",
+      "options": {
+        "a": "3 metres",
+        "b": "10 metres",
+        "c": "5 metres"
+      },
+      "correct_answer": "c",
+      "explanation": "A minimum distance of 5 metres must be left clear before a pedestrian crossing to ensure visibility for both pedestrians and other drivers.",
+      "page_reference": 97,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 4,
+      "question_text": "When parking outside a built-up area, what is the minimum distance you must leave clear before a Railway Crossing?",
+      "options": {
+        "a": "50 metres",
+        "b": "15 metres",
+        "c": "5 metres"
+      },
+      "correct_answer": "a",
+      "explanation": "Outside a built-up area, a minimum distance of 50 metres must be maintained when parking before a Railway Crossing.",
+      "page_reference": 98,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 5,
+      "question_text": "What is the maximum length of time you are permitted to stop at a bus stop, provided you are not obstructing buses?",
+      "options": {
+        "a": "1 minute",
+        "b": "5 minutes",
+        "c": "3 minutes"
+      },
+      "correct_answer": "c",
+      "explanation": "You may stop at a bus stop for a maximum of 3 minutes, but only if you do not obstruct any buses.",
+      "page_reference": 98,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 6,
+      "question_text": "In the situation pictured, who has parked incorrectly?",
+      "options": {
+        "a": "The light-coloured car.",
+        "b": "The dark-coloured car in the background.",
+        "c": "Both cars are parked correctly."
+      },
+      "correct_answer": "a",
+      "explanation": "The light-coloured car is parked incorrectly as it appears to be obstructing a driveway or parked against the flow of traffic on a two-way street.",
+      "page_reference": 98,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@59eef103dee5bd0cd38354978708a4da0fc19e43/CPT10_qz01-Q6.png",
+      "book_image_reference": {
+        "page": 98,
+        "question_index": 17
+      }
+    },
+    {
+      "question_number": 7,
+      "question_text": "When is parking on the left-hand side of the road prohibited?",
+      "options": {
+        "a": "In all one-way streets.",
+        "b": "If it would not leave a gap of at least 3 metres between your vehicle and the lane boundary marking.",
+        "c": "On any road within a built-up area."
+      },
+      "correct_answer": "b",
+      "explanation": "Parking on the left is prohibited if the remaining space between your vehicle and the lane boundary marking is less than 3 metres, as this would impede traffic flow.",
+      "page_reference": 99,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 8,
+      "question_text": "What is the minimum distance a vehicle must leave clear in front of traffic lights if parking the vehicle would conceal them?",
+      "options": {
+        "a": "5 metres",
+        "b": "10 metres",
+        "c": "15 metres"
+      },
+      "correct_answer": "b",
+      "explanation": "You must park at least 10 metres away from traffic lights if your vehicle would otherwise block other road users' view of them.",
+      "page_reference": 99,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 9,
+      "question_text": "A trailer without a truck may not be parked on public roads for more than what duration?",
+      "options": {
+        "a": "24 hours",
+        "b": "2 weeks",
+        "c": "7 days"
+      },
+      "correct_answer": "b",
+      "explanation": "An unhitched trailer is not allowed to be parked on public roads for a continuous period of more than 2 weeks.",
+      "page_reference": 100,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 10,
+      "question_text": "You park at 10:40 in an area allowing 2 hours of parking with a parking disc. What time must you set on the disc?",
+      "options": {
+        "a": "10:40",
+        "b": "11:00",
+        "c": "12:40"
+      },
+      "correct_answer": "b",
+      "explanation": "When using a parking disc, you must set it to the next half-hour mark after your arrival. Arriving at 10:40 means setting the disc to 11:00.",
+      "page_reference": 100,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 11,
+      "question_text": "What is important to remember when children are getting in or out of a car?",
+      "options": {
+        "a": "Children should only use the doors on the roadway side under supervision.",
+        "b": "Children should exit and enter on the pavement side whenever possible.",
+        "c": "Children should wait for the driver to open the door from the outside."
+      },
+      "correct_answer": "b",
+      "explanation": "For safety, children should always get in or out of the car on the pavement side, away from moving traffic.",
+      "page_reference": 101,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 12,
+      "question_text": "After a tyre failure on the highway, how far away should you place the warning triangle?",
+      "options": {
+        "a": "At a distance of around 50m",
+        "b": "At a distance of around 150m",
+        "c": "At a distance of around 100m"
+      },
+      "correct_answer": "c",
+      "explanation": "When a vehicle breaks down on a high-speed road like a highway, the warning triangle must be placed approximately 100m behind the vehicle to give oncoming traffic adequate warning.",
+      "page_reference": 101,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 13,
+      "question_text": "How do you secure a car with a manual gearbox against rolling away on a downhill slope?",
+      "options": {
+        "a": "Apply the parking brake and engage first gear or reverse gear.",
+        "b": "Only apply the parking brake firmly.",
+        "c": "Apply the parking brake and leave the gearbox in neutral."
+      },
+      "correct_answer": "a",
+      "explanation": "For maximum safety on a downhill slope, you must apply the parking brake and also engage either first gear or reverse gear to use the engine's compression to prevent rolling.",
+      "page_reference": 101,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 14,
+      "question_text": "Your vehicle has broken down and is being towed. Which lights must be used?",
+      "options": {
+        "a": "The headlights on the vehicle being towed.",
+        "b": "The hazard warning lights on the towing vehicle only.",
+        "c": "The hazard warning lights on both vehicles."
+      },
+      "correct_answer": "c",
+      "explanation": "When a vehicle is being towed, both the towing vehicle and the vehicle being towed must have their hazard warning lights switched on.",
+      "page_reference": 102,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 15,
+      "question_text": "A car with servo brakes has broken down due to engine damage. What is correct about its braking ability when being towed?",
+      "options": {
+        "a": "The brakes will not work at all and cannot be used.",
+        "b": "The car can only achieve a slight braking effect, even with increased pedal pressure.",
+        "c": "The brakes will function as normal without the engine running."
+      },
+      "correct_answer": "b",
+      "explanation": "Without the engine running, the servo-assistance for the brakes will not work. The brakes can still be applied, but they will require much more physical force on the pedal and will only have a slight effect.",
+      "page_reference": 102,
+      "image_url": null,
+      "book_image_reference": null
+    }
+  ]
+}
