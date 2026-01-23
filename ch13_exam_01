@@ -1,0 +1,425 @@
+{
+  "quiz_id": "ch13_exam_01",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Alterations to your vehicle have resulted to impound the car by the Police. What are the consequences?",
+      "options": {
+        "a": "Demand for a new and higher insurance coverage",
+        "b": "Issuing fines for such traffic offence plus a new driving test",
+        "c": "Issuing fines for such traffic offence plus demerit points"
+      },
+      "correct_answer": "c",
+      "explanation": "Illegal alterations to a vehicle can result in severe penalties. Beyond impoundment, the standard consequences include fines for the traffic offence and the accumulation of demerit points on your licence.",
+      "page_reference": 8,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 2,
+      "question_text": "You are driving on a road outside a built-up area with three lanes in each direction. Individual vehicles are travelling well spaced out in the far left-hand lane. Which lane may you use continuosly?",
+      "options": {
+        "a": "The far right-hand lane",
+        "b": "The middle lane",
+        "c": "I have to follow the vehicles travelling in the far left-hand lane"
+      },
+      "correct_answer": "b",
+      "explanation": "On a three-lane highway outside built-up areas, if the far left lane has traffic (even if spaced out), using the middle lane continuously is often permitted to maintain smooth flow, whereas the far right lane is strictly reserved for overtaking.",
+      "page_reference": 9,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 3,
+      "question_text": "You want to leave the Highway. What must you do?",
+      "options": {
+        "a": "Reduce speed in the vertex of the exit lane",
+        "b": "Use the left-hand lane early enough and indicate in good time",
+        "c": "Increase the speed before reaching the exit lane"
+      },
+      "correct_answer": "b",
+      "explanation": "Exiting a highway safely requires preparation. You must move into the correct exit lane (left lane) well in advance and signal your intention early to warn other drivers behind you.",
+      "page_reference": 10,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 4,
+      "question_text": "What must you remember when leaving the Highway?",
+      "options": {
+        "a": "That vehicles in front will overtake",
+        "b": "That the bend will become wide enough to speed up again",
+        "c": "That a traffic jam is likely on the bend"
+      },
+      "correct_answer": "c",
+      "explanation": "Highway exit ramps often feature sharp bends where traffic slows down significantly. Drivers should anticipate that traffic may be backed up or stationary (traffic jam) just around the curve.",
+      "page_reference": 11,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@2b7a1bd5d8788c1ef3dc1533f06b2cbda17d526b/CPT13_qz01-Q4.png",
+      "book_image_reference": null
+    },
+    {
+      "question_number": 5,
+      "question_text": "What does this traffic sign mean?",
+      "options": {
+        "a": "The shoulder should be used in case of oncoming traffic",
+        "b": "The shoulder should be used for parking",
+        "c": "The shoulder beside the roadway is not strong (hard) enough"
+      },
+      "correct_answer": "c",
+      "explanation": "This sign warns that the verge or shoulder is soft or unstable. Driving onto it could cause the vehicle to sink, slip, or overturn, so you must stay on the paved roadway.",
+      "page_reference": 65,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@2b7a1bd5d8788c1ef3dc1533f06b2cbda17d526b/CPT13_qz01-Q5.png",
+      "book_image_reference": null
+    },
+    {
+      "question_number": 6,
+      "question_text": "What must you expect when you see this traffic sign?",
+      "options": {
+        "a": "Vehicles in front may speed-up suddenly",
+        "b": "Frequent traffic congestion",
+        "c": "That there are 3 vehicles in front"
+      },
+      "correct_answer": "b",
+      "explanation": "The triangular warning sign showing a line of cars indicates that traffic congestion or queuing is likely ahead. You should slow down and be prepared to stop.",
+      "page_reference": 47,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@2b7a1bd5d8788c1ef3dc1533f06b2cbda17d526b/CPT13_qz01-Q6.png",
+      "book_image_reference": null
+    },
+    {
+      "question_number": 7,
+      "question_text": "What does this traffic sign indicate?",
+      "options": {
+        "a": "Coordinated traffic lights ahead (in 55 km/h)",
+        "b": "Coordinated traffic lights if driving at the average speed of 55 km/h",
+        "c": "Coordinated traffic lights for 55 km/h"
+      },
+      "correct_answer": "b",
+      "explanation": "This sign indicates a 'green wave' system. If you maintain the advised speed (55 km/h), you will likely pass through successive traffic lights while they are green.",
+      "page_reference": 65,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@2b7a1bd5d8788c1ef3dc1533f06b2cbda17d526b/CPT13_qz01-Q7.png",
+      "book_image_reference": null
+    },
+    {
+      "question_number": 8,
+      "question_text": "Your vehicle has an engine failure on the Highway. What must you remember when having it towed away?",
+      "options": {
+        "a": "During towing, both vehicles must use their hazard warning lights",
+        "b": "I do need driving licence class EC for towing occasionally a light vehicle",
+        "c": "Only certified companies are allowed to tow away break-downs from a Highway"
+      },
+      "correct_answer": "a",
+      "explanation": "When towing a vehicle on a highway, visibility is critical for safety. Both the towing vehicle and the vehicle being towed must display hazard warning lights to alert other road users.",
+      "page_reference": 12,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 9,
+      "question_text": "What dangers could arise if you drive over this damaged part of the road?",
+      "options": {
+        "a": "Axles of the vehicles are not affected",
+        "b": "Your vehicle could go into a skid",
+        "c": "The potholes will become smaller with increased traffic"
+      },
+      "correct_answer": "b",
+      "explanation": "Driving over damaged road surfaces, especially those with potholes or loose gravel, significantly reduces tyre traction. This creates a high risk of skidding or losing control of the vehicle.",
+      "page_reference": 15,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@2b7a1bd5d8788c1ef3dc1533f06b2cbda17d526b/CPT13_qz01-Q9.png",
+      "book_image_reference": null
+    },
+    {
+      "question_number": 10,
+      "question_text": "Which dangers can arise in this residential area?",
+      "options": {
+        "a": "Vehicles driving too fast",
+        "b": "Well traffic trained children on the road",
+        "c": "Litter on the road"
+      },
+      "correct_answer": "a",
+      "explanation": "In residential areas, a major hazard is drivers exceeding the speed limit. This makes it difficult to react in time to common hazards like children playing or pedestrians crossing.",
+      "page_reference": 16,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@2b7a1bd5d8788c1ef3dc1533f06b2cbda17d526b/CPT13_qz01-Q10.png",
+      "book_image_reference": null
+    },
+    {
+      "question_number": 11,
+      "question_text": "You are travelling at high speed. Where in particular can obstructions suddenly appear?",
+      "options": {
+        "a": "Behind hill-tops (crests)",
+        "b": "By waiting vehicles in side roads",
+        "c": "By vehicles following with the same speed"
+      },
+      "correct_answer": "a",
+      "explanation": "Hill-tops or crests create blind spots where the road surface ahead is hidden. Obstructions such as stationary vehicles or accidents can appear suddenly as you clear the crest.",
+      "page_reference": 21,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 12,
+      "question_text": "For which motor vehicles is the recommended speed on Highways intended?",
+      "options": {
+        "a": "For fast driving vehicles only",
+        "b": "For vehicles exceeding 3.5 t only",
+        "c": "For all power-driven vehicles"
+      },
+      "correct_answer": "c",
+      "explanation": "Recommended speed limits on highways are designed to optimize traffic flow and safety for everyone. They apply to all power-driven vehicles, not just specific weight classes or fast cars.",
+      "page_reference": 22,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 13,
+      "question_text": "You want to turn onto a road from a traffic calmed area. A cyclist is approaching from the right. Who must wait?",
+      "options": {
+        "a": "The cyclist must wait",
+        "b": "I must wait",
+        "c": "A traffic calmed area regulates the right of way"
+      },
+      "correct_answer": "b",
+      "explanation": "When emerging from a traffic-calmed area onto a main road, you generally do not have priority. You must yield to traffic on the cross road, including cyclists approaching from the right.",
+      "page_reference": 81,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 14,
+      "question_text": "What must you remember when you want to change lanes?",
+      "options": {
+        "a": "You must pay attention to the traffic following behind",
+        "b": "You must pay attention to your passengers",
+        "c": "Your must pay attention to traffic coming from private driveways"
+      },
+      "correct_answer": "a",
+      "explanation": "Safe lane changing requires ensuring the new lane is clear. You must strictly monitor the traffic following behind you via mirrors and check blind spots before moving.",
+      "page_reference": 82,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 15,
+      "question_text": "What do you do if you want to drive straight on?",
+      "options": {
+        "a": "Use your hooter (horn) for warning the driver in front",
+        "b": "Brake, so that the driver in front can change the lane to the left",
+        "c": "Speed up because the driver in front of you made a mistake and has to wait"
+      },
+      "correct_answer": "b",
+      "explanation": "If a driver cuts in front or tries to merge aggressively, defensive driving dictates that you brake to create space. This allows them to complete the manoeuvre safely and avoids a collision.",
+      "page_reference": 83,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@2b7a1bd5d8788c1ef3dc1533f06b2cbda17d526b/CPT13_qz01-Q15.png",
+      "book_image_reference": null
+    },
+    {
+      "question_number": 16,
+      "question_text": "You are approaching the truck with trailer which is changing into your lane at about 60 km/h. Which possibilities do you have?",
+      "options": {
+        "a": "Proceed because the truck must wait",
+        "b": "Accelerate very harsh to pass the critical situation",
+        "c": "Keep a careful eye on vehicles travelling behind you and move to the right-hand lane, if necessary"
+      },
+      "correct_answer": "c",
+      "explanation": "When a slower heavy vehicle merges into your lane, you should adapt safely. Check your mirrors for traffic behind you and, if safe, change lanes to the right to maintain your speed and avoid the truck.",
+      "page_reference": 84,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@2b7a1bd5d8788c1ef3dc1533f06b2cbda17d526b/CPT13_qz01-Q16.png",
+      "book_image_reference": null
+    },
+    {
+      "question_number": 17,
+      "question_text": "There are cyclists and pedestrians on the roadway. What must you remember?",
+      "options": {
+        "a": "You may only overtake if a safe lateral distance of at least 0.5 metre is possible",
+        "b": "You may only overtake if a safe lateral distance of at least 1.5 metres are possible",
+        "c": "You may only overtake if a safe lateral distance of at least 2 metres are possible"
+      },
+      "correct_answer": "b",
+      "explanation": "Cyclists and pedestrians are vulnerable road users. When overtaking them, you must leave a sufficient safety gap to account for any sudden movements. The standard safe lateral distance is at least 1.5 metres.",
+      "page_reference": 85,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 18,
+      "question_text": "What do you do when you see this traffic sign?",
+      "options": {
+        "a": "The sign indicates the right-of-way",
+        "b": "The oncoming traffic has precedence",
+        "c": "I may only take precedence when the narrowing road is clear"
+      },
+      "correct_answer": "c",
+      "explanation": "While the blue square sign generally gives you priority over oncoming traffic, you cannot exercise this right blindly. You may only proceed if the narrow section is actually clear to enter without causing a deadlock.",
+      "page_reference": 62,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@2b7a1bd5d8788c1ef3dc1533f06b2cbda17d526b/CPT13_qz01-Q18.png",
+      "book_image_reference": null
+    },
+    {
+      "question_number": 19,
+      "question_text": "What is important with regard to the official registration plates?",
+      "options": {
+        "a": "All number plates must be readable at a distance of 500 metres",
+        "b": "The front number plate must be lit-up in darkness",
+        "c": "The rear number plate must be lit-up in darkness"
+      },
+      "correct_answer": "c",
+      "explanation": "To ensure vehicles can be identified at night, traffic regulations require that the rear number plate is illuminated by a specific white light when the vehicle lights are on.",
+      "page_reference": 7,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 20,
+      "question_text": "What must you be prepared for in this situation?",
+      "options": {
+        "a": "Oncoming traffic is concealed by the truck",
+        "b": "Following traffic is concealed by the truck",
+        "c": "The truck is intending to turn right"
+      },
+      "correct_answer": "a",
+      "explanation": "Large trucks obstruct your forward view significantly. In this situation, the truck body hides the lane of oncoming traffic, meaning you may not see an approaching vehicle until it is very close.",
+      "page_reference": 76,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@2b7a1bd5d8788c1ef3dc1533f06b2cbda17d526b/CPT13_qz01-Q20.png",
+      "book_image_reference": null
+    },
+    {
+      "question_number": 21,
+      "question_text": "Which conduct is correct?",
+      "options": {
+        "a": "I must allow the bus to proceed",
+        "b": "I must allow the motorcycle to proceed",
+        "c": "The Bus and Motorcycle must wait"
+      },
+      "correct_answer": "b",
+      "explanation": "In right-of-way scenarios, vehicles going straight usually have priority over those turning across their path (depending on the specific intersection type). Here, you must yield to the motorcycle.",
+      "page_reference": 31,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@2b7a1bd5d8788c1ef3dc1533f06b2cbda17d526b/CPT13_qz01-Q21.png",
+      "book_image_reference": null
+    },
+    {
+      "question_number": 22,
+      "question_text": "You want to turn left from this farm track. Who must wait?",
+      "options": {
+        "a": "The vehicle from the right side must wait",
+        "b": "I must wait",
+        "c": "Both drivers must come to an agreement"
+      },
+      "correct_answer": "b",
+      "explanation": "Vehicles joining a public road from a private driveway or farm track must always yield to traffic already on the road. You do not have the right of way.",
+      "page_reference": 36,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@2b7a1bd5d8788c1ef3dc1533f06b2cbda17d526b/CPT13_qz01-Q22.png",
+      "book_image_reference": null
+    },
+    {
+      "question_number": 23,
+      "question_text": "What is correct?",
+      "options": {
+        "a": "The yellow (right-hand-side) vehicle must wait",
+        "b": "I must get ready to proceed",
+        "c": "Both vehicles must wait till the police officer changed his direction"
+      },
+      "correct_answer": "c",
+      "explanation": "Traffic signals given by a police officer override other signs. If the officer's stance indicates 'stop' for your direction (e.g., facing you or back to you), you must wait until they change position to signal you to proceed.",
+      "page_reference": 41,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@2b7a1bd5d8788c1ef3dc1533f06b2cbda17d526b/CPT13_qz01-Q23.png",
+      "book_image_reference": null
+    },
+    {
+      "question_number": 24,
+      "question_text": "What is correct?",
+      "options": {
+        "a": "The position of the police officer indicates to stop",
+        "b": "Cross the crossroads at a brisk pace",
+        "c": "Vehicles coming from the right or left side may proceed first"
+      },
+      "correct_answer": "b",
+      "explanation": "When a police officer stands sideways to you, it equates to a green light. You should proceed through the intersection, but do so briskly to clear the junction efficiently.",
+      "page_reference": 41,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@2b7a1bd5d8788c1ef3dc1533f06b2cbda17d526b/CPT13_qz01-Q24.png",
+      "book_image_reference": null
+    },
+    {
+      "question_number": 25,
+      "question_text": "What does this traffic sign indicate?",
+      "options": {
+        "a": "A carpark for light vehicles only",
+        "b": "A carpark for all vehicles",
+        "c": "A carpark indicating straight parking only"
+      },
+      "correct_answer": "a",
+      "explanation": "The 'P' sign combined with a vehicle symbol (specifically a car) indicates that the parking area is restricted to light motor vehicles, and larger vehicles like trucks are not permitted.",
+      "page_reference": 67,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@2b7a1bd5d8788c1ef3dc1533f06b2cbda17d526b/CPT13_qz01-Q25.png",
+      "book_image_reference": null
+    },
+    {
+      "question_number": 26,
+      "question_text": "At the entrance to an industrial estate, there is a level cross with the supplementary sign 'industrial estate - rail vehicles have precedence'. What must you remember?",
+      "options": {
+        "a": "Increase the speed to avoid delays caused by rail-vehicles",
+        "b": "Approach the entrance at moderate speed and observe left and right along the railway line",
+        "c": "You must stop despite the gates of the industrial estate are closed"
+      },
+      "correct_answer": "b",
+      "explanation": "Because rail vehicles have precedence and industrial crossings can be dangerous, you must approach slowly and actively look both ways along the track to ensure it is safe before crossing.",
+      "page_reference": 69,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 27,
+      "question_text": "A ball rolls onto the roadway in front of your vehicle in a residential area. How should you react?",
+      "options": {
+        "a": "Continue driving because the ball owner will watch the road",
+        "b": "Use your horn to warn children at play",
+        "c": "Reduce speed at once and remain ready to brake"
+      },
+      "correct_answer": "c",
+      "explanation": "A ball rolling into the street is a clear warning sign that a child may chase after it without looking. You must immediately slow down and be prepared to stop instantly.",
+      "page_reference": 71,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 28,
+      "question_text": "A child is walking on the pavement with a dog on a lead. Can this cause a dangerous situation?",
+      "options": {
+        "a": "No, because the dog is trained to follow the child on the road",
+        "b": "Yes, because the dog could suddenly run into the next garden along the pavement",
+        "c": "Yes, because the dog could suddenly run onto the roadway and pulling the child along behind"
+      },
+      "correct_answer": "c",
+      "explanation": "This situation is hazardous because animals can be unpredictable. If the dog gets excited or spooked, it could bolt into the road, dragging the child with it into the path of oncoming traffic.",
+      "page_reference": 75,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 29,
+      "question_text": "At a bus stop, passengers getting on and off the bus on the roadway. What do you do if you want to pass?",
+      "options": {
+        "a": "Use the horn (hooter) to warn the pedestrians and continue your speed",
+        "b": "Drive cautiously at walking speed if this is possible without endangering passengers",
+        "c": "Wait till the bus has moved off"
+      },
+      "correct_answer": "b",
+      "explanation": "Passengers embarking or disembarking may step onto the road unexpectedly. If you must pass, you are required to do so at an extremely low speed (walking pace) and be ready to stop to avoid any danger.",
+      "page_reference": 77,
+      "image_url": null,
+      "book_image_reference": null
+    },
+    {
+      "question_number": 30,
+      "question_text": "What conduct must you expect of children at zebra crossings?",
+      "options": {
+        "a": "They will turn around on the zebra crossing for no apparent reason and run back",
+        "b": "They will wait till the crossing is free",
+        "c": "They will wave with their hands to stop the drivers"
+      },
+      "correct_answer": "a",
+      "explanation": "Children often lack the judgement of adults and act impulsively. Drivers should anticipate irrational behavior, such as a child suddenly turning back or running across the crossing without warning.",
+      "page_reference": 78,
+      "image_url": null,
+      "book_image_reference": null
+    }
+  ]
+}
