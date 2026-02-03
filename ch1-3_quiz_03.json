@@ -6,10 +6,10 @@
 "question_text": "How can fatigue be prevented on a long journey?",
 "options": {
 "a": "By drinking two cups of strong coffee",
-"b": "By well-timed and sufficient stops for rests",
-"c": "By gymnastic exercises while driving"
+"b": "By gymnastic exercises while driving",
+"c": "By well-timed and sufficient stops for rests"
 },
-"correct_answer": "b",
+"correct_answer": "c",
 "explanation": "Stimulants like coffee only provide a short-term boost. The only way to truly prevent fatigue is to stop and rest adequately.",
 "page_reference": 1,
 "image_url": null
@@ -18,11 +18,11 @@
 "question_number": 2,
 "question_text": "What does 'power sound' (very loud music) in the car result in?",
 "options": {
-"a": "Signals from other traffic – in particular sirens – are not heard",
-"b": "Driving errors due to the driver being more relaxed",
-"c": "Better concentration on long roads"
+"a": "Better concentration on long roads",
+"b": "Signals from other traffic – in particular sirens – are not heard",
+"c": "Driving errors due to the driver being more relaxed"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "Loud music masks external sounds, making it impossible to hear emergency sirens or horns from other vehicles.",
 "page_reference": 1,
 "image_url": null
@@ -31,11 +31,11 @@
 "question_number": 3,
 "question_text": "Above which alcohol level in your blood can you expect your fitness to drive to be impaired considerably?",
 "options": {
-"a": "0.3 per mille (30 mg/100 ml)",
-"b": "0.8 per mille (80 mg/100 ml)",
+"a": "0.8 per mille (80 mg/100 ml)",
+"b": "0.3 per mille (30 mg/100 ml)",
 "c": "0.5 per mille (50 mg/100 ml)"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "Impairment begins at very low levels. The book states that fitness to drive can be impaired considerably above 0.3 per mille.",
 "page_reference": 2,
 "image_url": null
@@ -44,11 +44,11 @@
 "question_number": 4,
 "question_text": "How long can hashish and its catabolites (decomposition products) be detected in urine?",
 "options": {
-"a": "Weeks later",
-"b": "24 hours",
-"c": "48 hours"
+"a": "24 hours",
+"b": "48 hours",
+"c": "Weeks later"
 },
-"correct_answer": "a",
+"correct_answer": "c",
 "explanation": "Hashish remains in the system much longer than alcohol. Traces can be found in urine weeks after consumption.",
 "page_reference": 2,
 "image_url": null
@@ -57,11 +57,11 @@
 "question_number": 5,
 "question_text": "Which of the following persons are unfit to drive motor vehicles?",
 "options": {
-"a": "Persons who smoke a single hashish cigarette per day",
-"b": "Persons who drink coffee every morning",
+"a": "Persons who drink coffee every morning",
+"b": "Persons who smoke a single hashish cigarette per day",
 "c": "Persons who take medication for a headache occasionally"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "Regular drug use, even a single hashish cigarette daily, renders a person unfit to drive due to the persistent effects of the drug.",
 "page_reference": 2,
 "image_url": null
@@ -83,11 +83,11 @@
 "question_number": 7,
 "question_text": "What makes a good driver?",
 "options": {
-"a": "He treats others like partners, drives calmly and coolly and refrains from showing that he is superior",
-"b": "He drives fast to ensure traffic does not pile up behind him",
-"c": "He insists on his right of way to maintain traffic flow"
+"a": "He drives fast to ensure traffic does not pile up behind him",
+"b": "He insists on his right of way to maintain traffic flow",
+"c": "He treats others like partners, drives calmly and coolly and refrains from showing that he is superior"
 },
-"correct_answer": "a",
+"correct_answer": "c",
 "explanation": "A good driver is defined by their attitude: cooperative (partners), calm, and not arrogant (superiority).",
 "page_reference": 5,
 "image_url": null
@@ -109,11 +109,11 @@
 "question_number": 9,
 "question_text": "What can cause unnecessary obstructions on the road?",
 "options": {
-"a": "Vehicles proceeding too slowly for no good reason",
-"b": "Vehicles stopping at a red light",
+"a": "Vehicles stopping at a red light",
+"b": "Vehicles proceeding too slowly for no good reason",
 "c": "Vehicles slowing down for a pedestrian crossing"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "Driving too slowly without cause blocks traffic flow and is considered an unnecessary obstruction.",
 "page_reference": 6,
 "image_url": null
@@ -122,11 +122,11 @@
 "question_number": 10,
 "question_text": "What can cause a dangerous situation?",
 "options": {
-"a": "Cutting corners",
-"b": "Dipping your headlights early",
+"a": "Dipping your headlights early",
+"b": "Cutting corners",
 "c": "Using the indicator before turning"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "Cutting corners (taking a turn too sharply) puts you in the path of oncoming traffic or off the road surface.",
 "page_reference": 6,
 "image_url": null
@@ -135,11 +135,11 @@
 "question_number": 11,
 "question_text": "Which documents must you carry as a driver?",
 "options": {
-"a": "Driving licence and vehicle registration certificate",
-"b": "Driving licence and insurance policy",
-"c": "Vehicle registration book and logbook"
+"a": "Driving licence and insurance policy",
+"b": "Vehicle registration book and logbook",
+"c": "Driving licence and vehicle registration certificate"
 },
-"correct_answer": "a",
+"correct_answer": "c",
 "explanation": "The law requires you to carry your driving licence and the vehicle registration certificate (blue book/card).",
 "page_reference": 7,
 "image_url": null
@@ -161,11 +161,11 @@
 "question_number": 13,
 "question_text": "What is important with regard to the official registration plates?",
 "options": {
-"a": "The rear registration plate must be lit up in darkness",
-"b": "The front registration plate must be lit up in darkness",
-"c": "Both plates must be reflective red"
+"a": "The front registration plate must be lit up in darkness",
+"b": "Both plates must be reflective red",
+"c": "The rear registration plate must be lit up in darkness"
 },
-"correct_answer": "a",
+"correct_answer": "c",
 "explanation": "To ensure the vehicle can be identified at night, the rear number plate must have a light illuminating it.",
 "page_reference": 7,
 "image_url": null
@@ -174,11 +174,11 @@
 "question_number": 14,
 "question_text": "At which intervals must you submit your car (not a new vehicle) with a diesel engine for the exhaust test?",
 "options": {
-"a": "Every 2 years",
-"b": "Every 12 months",
+"a": "Every 12 months",
+"b": "Every 2 years",
 "c": "Every 6 months"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "Diesel engine vehicles (that are not new) require an exhaust test every 2 years.",
 "page_reference": 8,
 "image_url": null
@@ -187,11 +187,11 @@
 "question_number": 15,
 "question_text": "Alterations to your vehicle have resulted in the permit for use being cancelled. What are the consequences?",
 "options": {
-"a": "The insurance cover lapses",
-"b": "You get 3 points on your license",
+"a": "You get 3 points on your license",
+"b": "The insurance cover lapses",
 "c": "You must pay a fine to the mechanic"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "If the vehicle is not legally permitted for road use due to alterations, the insurance company is not liable to pay, so coverage lapses.",
 "page_reference": 8,
 "image_url": null
