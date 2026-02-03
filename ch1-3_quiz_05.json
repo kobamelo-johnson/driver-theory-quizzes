@@ -1,0 +1,200 @@
+{
+"quiz_id": "ch1-3_quiz_05",
+"questions": [
+{
+"question_number": 1,
+"question_text": "In general, how long does it take before an alcohol level of 1.0 per mille (100 mg/100 ml) is cleared from the blood stream?",
+"options": {
+"a": "10 hours",
+"b": "5 hours",
+"c": "24 hours"
+},
+"correct_answer": "a",
+"explanation": "This requires memorizing the specific metabolic rate mentioned in the book: 1.0 per mille takes approximately 10 hours to clear.",
+"page_reference": 2,
+"image_url": null
+},
+{
+"question_number": 2,
+"question_text": "At which intervals must you submit your car (not a new vehicle, petrol engine, without catalytic converter) for the exhaust test?",
+"options": {
+"a": "Every 12 months",
+"b": "Every 2 years",
+"c": "Every 6 months"
+},
+"correct_answer": "a",
+"explanation": "This is a tricky detail. While many vehicles are tested every 2 years, older petrol engines *without* a catalytic converter must be tested every 12 months.",
+"page_reference": 7,
+"image_url": null
+},
+{
+"question_number": 3,
+"question_text": "How long can hashish and its catabolites (decomposition products) be detected in the urine?",
+"options": {
+"a": "Weeks later",
+"b": "Only for 24 hours",
+"c": "Up to 3 days"
+},
+"correct_answer": "a",
+"explanation": "Unlike alcohol, hashish leaves traces for a very long time. The correct answer is 'Weeks later'.",
+"page_reference": 2,
+"image_url": null
+},
+{
+"question_number": 4,
+"question_text": "You have left your registered caravan trailer for six months on a campground. What applies as far as the official inspection is concerned?",
+"options": {
+"a": "The deadline for submission indicated on the test stamp must be observed",
+"b": "It is exempt from inspection while stationary",
+"c": "You must inspect it only when you move it again"
+},
+"correct_answer": "a",
+"explanation": "A common misconception is that stationary vehicles don't need inspection. The law states the deadline on the stamp *must* be observed regardless.",
+"page_reference": 8,
+"image_url": null
+},
+{
+"question_number": 5,
+"question_text": "Which of the following persons are explicitly unfit to drive motor vehicles according to the manual?",
+"options": {
+"a": "Persons who smoke a single hashish cigarette per day",
+"b": "Persons who smoke 5 cigarettes (tobacco) a day",
+"c": "Persons who drink one glass of wine with dinner"
+},
+"correct_answer": "a",
+"explanation": "The book explicitly singles out 'Persons who smoke a single hashish cigarette per day' as being unfit to drive.",
+"page_reference": 2,
+"image_url": null
+},
+{
+"question_number": 6,
+"question_text": "You are overtaking a queue of cars on the Highway. A car approaching very fast is pushing you. What is the correct reaction?",
+"options": {
+"a": "When you are driving fast enough to overtake, you continue at a brisk pace and back into the lane on the left after overtaking",
+"b": "You abort the overtaking immediately and brake",
+"c": "You signal right to indicate you are not moving"
+},
+"correct_answer": "a",
+"explanation": "This complex scenario requires the specific correct sequence: continue briskly -> finish overtaking -> move left. Panic braking or blocking are wrong.",
+"page_reference": 5,
+"image_url": null
+},
+{
+"question_number": 7,
+"question_text": "What is the exact consequence if alterations to your vehicle result in the permit for use being cancelled?",
+"options": {
+"a": "The insurance cover lapses",
+"b": "You must pay a fine of 500 Pula",
+"c": "You receive a warning in the traffic offender file"
+},
+"correct_answer": "a",
+"explanation": "The most severe and immediate legal consequence mentioned is that the insurance cover lapses (becomes void).",
+"page_reference": 8,
+"image_url": null
+},
+{
+"question_number": 8,
+"question_text": "You have sold your vehicle which is still registered. The buyer has paid. What is the mandatory step you must take?",
+"options": {
+"a": "Hand over the vehicle registration certificate and vehicle registration book or permit for use to the buyer against receipt",
+"b": "Go to the police station with the buyer to sign an affidavit",
+"c": "Cancel your insurance and let the buyer handle the rest"
+},
+"correct_answer": "a",
+"explanation": "The procedure is strict: You must physically hand over the specific documents (certificate & book/permit) and get a receipt.",
+"page_reference": 7,
+"image_url": null
+},
+{
+"question_number": 9,
+"question_text": "What does 'power sound' in the car result in?",
+"options": {
+"a": "Signals from other traffic – in particular sirens – are not heard",
+"b": "Distraction due to vibration",
+"c": "It causes the driver to fall asleep"
+},
+"correct_answer": "a",
+"explanation": "This checks for the specific danger listed: the inability to hear sirens (audible warning signals).",
+"page_reference": 1,
+"image_url": null
+},
+{
+"question_number": 10,
+"question_text": "What is the correct definition of 'Defensive Driving'?",
+"options": {
+"a": "Not insisting on your rights",
+"b": "Driving slowly and cautiously at all times",
+"c": "Always using your horn to warn others"
+},
+"correct_answer": "a",
+"explanation": "Many think it means 'driving slowly', but the book defines it specifically as 'Not insisting on your rights'.",
+"page_reference": 6,
+"image_url": null
+},
+{
+"question_number": 11,
+"question_text": "What specifically can cause a dangerous situation regarding the steering mechanism?",
+"options": {
+"a": "Too much steering-wheel play",
+"b": "Power steering fluid being low",
+"c": "A steering wheel that is too small"
+},
+"correct_answer": "a",
+"explanation": "The book lists 'Too much steering-wheel play' as the specific mechanical danger to look out for.",
+"page_reference": 6,
+"image_url": null
+},
+{
+"question_number": 12,
+"question_text": "What must you do if you notice signs of fatigue (heavy eyelids, feeling chilly) on an open road at night?",
+"options": {
+"a": "Interrupt your journey for an adequate break",
+"b": "Turn on the air conditioning to cold",
+"c": "Listen to loud music to stay awake"
+},
+"correct_answer": "a",
+"explanation": "Tricks like cold air or loud music are false remedies. The only correct answer is to stop (interrupt the journey).",
+"page_reference": 1,
+"image_url": null
+},
+{
+"question_number": 13,
+"question_text": "When is a new car due for its first official inspection?",
+"options": {
+"a": "After three years",
+"b": "After one year",
+"c": "After two years"
+},
+"correct_answer": "a",
+"explanation": "Drivers often confuse the 1-year or 2-year intervals for older cars with the rule for new cars (3 years).",
+"page_reference": 7,
+"image_url": null
+},
+{
+"question_number": 14,
+"question_text": "What is the effect of consuming 'Sleeping pills, pain killers or sedatives' in relation to alcohol?",
+"options": {
+"a": "They increase the intoxicating effect of alcohol",
+"b": "They neutralize the alcohol",
+"c": "They have no interaction with alcohol"
+},
+"correct_answer": "a",
+"explanation": "Mixing these common medications with alcohol amplifies (increases) the intoxication, making it highly dangerous.",
+"page_reference": 2,
+"image_url": null
+},
+{
+"question_number": 15,
+"question_text": "What must be remembered regarding the rear registration plate?",
+"options": {
+"a": "It must be lit up in darkness",
+"b": "It must be yellow",
+"c": "It must include the owner's name"
+},
+"correct_answer": "a",
+"explanation": "A specific statutory requirement: the rear plate must have a light source for night visibility.",
+"page_reference": 7,
+"image_url": null
+}
+]
+}
