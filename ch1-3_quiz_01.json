@@ -3,132 +3,197 @@
 "questions": [
 {
 "question_number": 1,
-"question_text": "What can cause a driver to veer off the road unexpectedly?",
+"question_text": "What can be the cause for veering off the roadway?",
 "options": {
-"a": "Excessive speed",
-"b": "Fatigue or drowsiness",
-"c": "Distraction or inattentiveness"
+"a": "Driving with dipped headlights",
+"b": "Fatigue",
+"c": "Driving at a moderate speed"
 },
 "correct_answer": "b",
-"explanation": "Veering off the road is often caused by fatigue, inattentiveness, or excessive speed. Drivers must remain alert and take breaks when tired.",
-"page_reference": 5,
+"explanation": "According to the driver's manual, the main causes for veering off the roadway are excessive speed, inattentiveness/distraction, and fatigue.",
+"page_reference": 1,
 "image_url": null
 },
 {
 "question_number": 2,
-"question_text": "When driving long distances at night, what is the correct action if you start feeling sleepy and your eyelids feel heavy?",
+"question_text": "What must you do if you notice signs of fatigue when driving on open stretches of road at night (heavy eyelids, feeling chilly)?",
 "options": {
 "a": "Open the window for fresh air and continue driving",
-"b": "Interrupt your journey and take a proper rest",
-"c": "Drink coffee and keep going"
+"b": "Interrupt your journey for an adequate break",
+"c": "Turn up the radio volume"
 },
 "correct_answer": "b",
-"explanation": "The safest action when experiencing fatigue is to stop and rest properly. Continuing to drive risks falling asleep at the wheel.",
-"page_reference": 6,
+"explanation": "Fatigue cannot be fought with tricks like fresh air or radio. The only safe legal requirement is to stop and take an adequate break.",
+"page_reference": 1,
 "image_url": null
 },
 {
 "question_number": 3,
-"question_text": "Can small amounts of alcohol affect your driving ability?",
+"question_text": "Can a motorist's fitness to drive be impaired by even relatively small quantities of alcohol?",
 "options": {
 "a": "No, only large quantities cause impairment",
-"b": "Yes, even small quantities can impair fitness to drive",
-"c": "Only if taken together with medication"
+"b": "Yes, even small quantities of alcohol can impair fitness to drive",
+"c": "Only if the driver is tired"
 },
 "correct_answer": "b",
-"explanation": "Even low alcohol levels can slow reaction time and reduce awareness, making driving unsafe.",
-"page_reference": 6,
+"explanation": "Even small amounts of alcohol affect reaction times and judgment. The correct answer is 'Yes'.",
+"page_reference": 1,
 "image_url": null
 },
 {
 "question_number": 4,
-"question_text": "Which of the following makes a driver unfit to drive even if taken occasionally?",
+"question_text": "Which drugs can make a person temporarily unfit to drive even when consumed on a single occasion?",
 "options": {
-"a": "Hashish, heroin, cocaine",
-"b": "Herbal tea or mild painkillers",
-"c": "Energy drinks"
+"a": "Hashish, marijuana, Heroin, cocaine",
+"b": "Prescription antibiotics",
+"c": "Caffeine and energy drinks"
 },
 "correct_answer": "a",
-"explanation": "Illegal drugs such as hashish, heroin, and cocaine impair judgment and reaction time even when used once.",
-"page_reference": 7,
+"explanation": "The book explicitly lists Hashish, marijuana, Heroin, and cocaine as drugs that render a driver unfit even after a single use.",
+"page_reference": 2,
 "image_url": null
 },
 {
 "question_number": 5,
-"question_text": "Immediately before setting off, you are very angry after an argument. What is the correct decision?",
+"question_text": "Immediately before setting off you have felt very angry and are furious. What is right?",
 "options": {
 "a": "Drive carefully to calm yourself down",
-"b": "Drive slowly and keep the window open",
-"c": "Do not drive until you have calmed down"
+"b": "You should not drive when you are furious",
+"c": "Drive but take a different route"
 },
-"correct_answer": "c",
-"explanation": "Strong emotions like anger reduce focus and increase risk-taking. It is safer to wait until calm before driving.",
-"page_reference": 8,
+"correct_answer": "b",
+"explanation": "Strong emotions like fury act as a major distraction and increase risk-taking behavior. You must not drive until calm.",
+"page_reference": 3,
 "image_url": null
 },
 {
 "question_number": 6,
-"question_text": "What can strongly distract a driver while on the road?",
+"question_text": "What strongly distracts you while you are driving?",
 "options": {
-"a": "Talking to passengers",
+"a": "Checking the rearview mirror",
 "b": "Lighting a cigarette",
-"c": "Using a hands-free phone"
+"c": "Listening to the engine sound"
 },
 "correct_answer": "b",
-"explanation": "Lighting a cigarette takes your hands and attention off the road, increasing the chance of an accident.",
-"page_reference": 8,
+"explanation": "Lighting a cigarette is a physical and mental distraction that takes hands and eyes off the task of driving.",
+"page_reference": 1,
 "image_url": null
 },
 {
 "question_number": 7,
-"question_text": "What best describes a good driver?",
+"question_text": "What makes a good driver?",
 "options": {
-"a": "Drives confidently and shows superiority",
-"b": "Treats others as partners and drives calmly and courteously",
-"c": "Always insists on his rights when driving"
+"a": "He drives aggressively to make progress",
+"b": "He treats others like partners, drives calmly and coolly",
+"c": "He teaches other drivers lessons when they make mistakes"
 },
 "correct_answer": "b",
-"explanation": "A good driver practices patience, cooperation, and respect for other road users.",
-"page_reference": 9,
+"explanation": "A good driver is defined by partnership and calmness, refraining from showing superiority.",
+"page_reference": 5,
 "image_url": null
 },
 {
 "question_number": 8,
-"question_text": "A vehicle behind is flashing lights and driving too close, trying to push you to go faster. What should you do?",
+"question_text": "A vehicle behind is urging you along on a country road. The driver is obviously annoyed. How do you react?",
 "options": {
-"a": "Accelerate to increase distance",
-"b": "Let the driver overtake safely when possible",
-"c": "Brake suddenly to warn the driver behind"
+"a": "You let him overtake as soon as possible and refrain from paying him back",
+"b": "You brake to show him he is too close",
+"c": "You speed up to prevent him from passing"
 },
-"correct_answer": "b",
-"explanation": "Defensive driving means allowing aggressive drivers to pass safely instead of reacting emotionally.",
-"page_reference": 9,
+"correct_answer": "a",
+"explanation": "The correct defensive reaction is to allow the annoyed driver to pass safely without retaliation.",
+"page_reference": 5,
 "image_url": null
 },
 {
 "question_number": 9,
 "question_text": "What should you understand by 'defensive driving'?",
 "options": {
-"a": "Insisting on your right-of-way in every situation",
-"b": "Allowing for other people’s mistakes and driving with foresight",
-"c": "Driving slowly at all times"
+"a": "Insisting on your rights at all times",
+"b": "Not insisting on your rights and allowing for other people's mistakes",
+"c": "Always driving 20km/h below the speed limit"
 },
 "correct_answer": "b",
-"explanation": "Defensive driving involves anticipating hazards and adjusting behavior to prevent accidents.",
-"page_reference": 10,
+"explanation": "Defensive driving is the practice of anticipating errors and not insisting on right-of-way if it compromises safety.",
+"page_reference": 6,
 "image_url": null
 },
 {
 "question_number": 10,
-"question_text": "Which documents must a driver always carry while operating a vehicle?",
+"question_text": "Which documents must you carry as a driver?",
 "options": {
 "a": "Driving licence and vehicle registration certificate",
-"b": "Insurance policy and road map",
-"c": "Vehicle logbook only"
+"b": "Insurance papers and vehicle logbook",
+"c": "Driving licence and purchase receipt"
 },
 "correct_answer": "a",
-"explanation": "These are mandatory documents that must be presented during traffic inspections or accidents.",
-"page_reference": 11,
+"explanation": "The two mandatory documents to have on your person are the Driving Licence and the Vehicle Registration Certificate.",
+"page_reference": 7,
+"image_url": null
+},
+{
+"question_number": 11,
+"question_text": "Above which alcohol level in your blood can you expect your fitness to drive to be impaired considerably?",
+"options": {
+"a": "0.3 per mille (30 mg/100 ml)",
+"b": "0.5 per mille (50 mg/100 ml)",
+"c": "0.8 per mille (80 mg/100 ml)"
+},
+"correct_answer": "a",
+"explanation": "The book states that fitness is impaired considerably starting at 0.3 per mille.",
+"page_reference": 2,
+"image_url": null
+},
+{
+"question_number": 12,
+"question_text": "What do you think of drivers who travel too fast under pressure of time and do not observe speed regulations?",
+"options": {
+"a": "They are efficient drivers",
+"b": "Pressure of time is no justification for ignoring traffic regulations",
+"c": "They are allowed to speed if they flash their lights"
+},
+"correct_answer": "b",
+"explanation": "There is no excuse for speeding. Pressure of time is not a valid justification for breaking the law.",
+"page_reference": 3,
+"image_url": null
+},
+{
+"question_number": 13,
+"question_text": "What can cause a dangerous situation?",
+"options": {
+"a": "Too much steering-wheel play",
+"b": "A well-maintained engine",
+"c": "Correctly adjusted mirrors"
+},
+"correct_answer": "a",
+"explanation": "Excessive play in the steering wheel reduces control and is a mechanical danger listed in the book.",
+"page_reference": 6,
+"image_url": null
+},
+{
+"question_number": 14,
+"question_text": "In which cases must you notify the change of location of a vehicle to the district of another registration centre?",
+"options": {
+"a": "When you go on holiday for a month",
+"b": "When the change of location is permanent",
+"c": "When you lend the car to a friend in another city"
+},
+"correct_answer": "b",
+"explanation": "Notification is only required if the move to the new district is permanent.",
+"page_reference": 7,
+"image_url": null
+},
+{
+"question_number": 15,
+"question_text": "What does the hexagonal stamp on the front number plate indicate?",
+"options": {
+"a": "The date of the next insurance payment",
+"b": "The date of the next exhaust test",
+"c": "The date of vehicle manufacture"
+},
+"correct_answer": "b",
+"explanation": "The hexagonal stamp specifically indicates when the vehicle must undergo its next exhaust emission test.",
+"page_reference": 8,
 "image_url": null
 }
 ]
