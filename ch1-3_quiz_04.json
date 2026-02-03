@@ -5,11 +5,11 @@
 "question_number": 1,
 "question_text": "A car with a young driver has stopped next to you at a red traffic light. He is playing with his accelerator and obviously intends to start first. How do you react?",
 "options": {
-"a": "You ignore the challenge, remain cool and let the other car drive off",
-"b": "You rev your engine to show you are ready",
-"c": "You accelerate quickly to teach him a lesson"
+"a": "You accelerate quickly to teach him a lesson",
+"b": "You ignore the challenge, remain cool and let the other car drive off",
+"c": "You rev your engine to show you are ready"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "Engaging in street racing or challenges is dangerous. The defensive response is to ignore the provocation and remain cool.",
 "page_reference": 3,
 "image_url": null
@@ -18,11 +18,11 @@
 "question_number": 2,
 "question_text": "What do you think of drivers who travel too fast under pressure of time and do not observe speed regulations?",
 "options": {
-"a": "Pressure of time is no justification for ignoring traffic regulations",
-"b": "They are allowed to speed if they have their hazard lights on",
-"c": "They are skilled drivers maximizing efficiency"
+"a": "They are allowed to speed if they have their hazard lights on",
+"b": "They are skilled drivers maximizing efficiency",
+"c": "Pressure of time is no justification for ignoring traffic regulations"
 },
-"correct_answer": "a",
+"correct_answer": "c",
 "explanation": "Stress or being late ('pressure of time') is never a legal or safe justification for speeding or breaking rules.",
 "page_reference": 3,
 "image_url": null
@@ -44,11 +44,11 @@
 "question_number": 4,
 "question_text": "What strongly distracts you while you are driving?",
 "options": {
-"a": "Nagging children on the backseats",
-"b": "Listening to the engine noise",
-"c": "Scanning the mirrors"
+"a": "Listening to the engine noise",
+"b": "Scanning the mirrors",
+"c": "Nagging children on the backseats"
 },
-"correct_answer": "a",
+"correct_answer": "c",
 "explanation": "The book explicitly lists 'Nagging children on the backseats' as a strong distraction, alongside telephoning and lighting a cigarette.",
 "page_reference": 1,
 "image_url": null
@@ -57,11 +57,11 @@
 "question_number": 5,
 "question_text": "A faster car overtakes you on a country road and cuts into your lane. How do you react?",
 "options": {
-"a": "You control your annoyance, remain cool and proceed as if you had not noticed this",
-"b": "You flash your lights to reprimand the driver",
+"a": "You flash your lights to reprimand the driver",
+"b": "You control your annoyance, remain cool and proceed as if you had not noticed this",
 "c": "You close the gap to prevent him from entering"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "Retaliation creates danger. A good driver controls their emotions and accommodates the other driver's mistake.",
 "page_reference": 5,
 "image_url": null
@@ -83,11 +83,11 @@
 "question_number": 7,
 "question_text": "What can cause a dangerous situation?",
 "options": {
-"a": "Dipping your headlights too late",
-"b": "Driving with headlights on during the day",
-"c": "Cleaning your windshield while parked"
+"a": "Driving with headlights on during the day",
+"b": "Cleaning your windshield while parked",
+"c": "Dipping your headlights too late"
 },
-"correct_answer": "a",
+"correct_answer": "c",
 "explanation": "Dipping headlights too late blinds oncoming drivers, causing a dangerous situation.",
 "page_reference": 6,
 "image_url": null
@@ -96,11 +96,11 @@
 "question_number": 8,
 "question_text": "What can present a danger in road traffic?",
 "options": {
-"a": "Worn tyres",
-"b": "Tyres inflated to the correct pressure",
+"a": "Tyres inflated to the correct pressure",
+"b": "Worn tyres",
 "c": "Clean mirrors"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "Worn tyres reduce grip and increase stopping distances, presenting a significant danger.",
 "page_reference": 6,
 "image_url": null
@@ -122,11 +122,11 @@
 "question_number": 10,
 "question_text": "You have bought a new car. When is it due for its first official inspection?",
 "options": {
-"a": "After three years",
-"b": "After one year",
-"c": "Immediately"
+"a": "Immediately",
+"b": "After three years",
+"c": "After one year"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "New cars are exempt from inspection for the first few years. The book states the first inspection is due after three years.",
 "page_reference": 7,
 "image_url": null
@@ -135,11 +135,11 @@
 "question_number": 11,
 "question_text": "At which intervals must you submit your car (not a new vehicle, petrol engine, without catalytic converter) for the exhaust test?",
 "options": {
-"a": "Every 12 months",
-"b": "Every 2 years",
-"c": "Every 6 months"
+"a": "Every 2 years",
+"b": "Every 6 months",
+"c": "Every 12 months"
 },
-"correct_answer": "a",
+"correct_answer": "c",
 "explanation": "Petrol engines *without* a catalytic converter pollute more and must be tested more frequently: every 12 months.",
 "page_reference": 7,
 "image_url": null
@@ -161,11 +161,11 @@
 "question_number": 13,
 "question_text": "What is required when your vehicle is no longer covered by motor liability insurance?",
 "options": {
-"a": "The vehicle must be de-registered at the registration centre",
-"b": "You must only drive it during the day",
+"a": "You must only drive it during the day",
+"b": "The vehicle must be de-registered at the registration centre",
 "c": "You must put a 'Not Insured' sticker on the window"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "A vehicle without insurance cannot legally be registered for road use. It must be de-registered.",
 "page_reference": 8,
 "image_url": null
