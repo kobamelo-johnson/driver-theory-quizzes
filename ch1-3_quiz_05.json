@@ -5,11 +5,11 @@
 "question_number": 1,
 "question_text": "In general, how long does it take before an alcohol level of 1.0 per mille (100 mg/100 ml) is cleared from the blood stream?",
 "options": {
-"a": "10 hours",
-"b": "5 hours",
-"c": "24 hours"
+"a": "5 hours",
+"b": "24 hours",
+"c": "10 hours"
 },
-"correct_answer": "a",
+"correct_answer": "c",
 "explanation": "This requires memorizing the specific metabolic rate mentioned in the book: 1.0 per mille takes approximately 10 hours to clear.",
 "page_reference": 2,
 "image_url": null
@@ -31,11 +31,11 @@
 "question_number": 3,
 "question_text": "How long can hashish and its catabolites (decomposition products) be detected in the urine?",
 "options": {
-"a": "Weeks later",
-"b": "Only for 24 hours",
+"a": "Only for 24 hours",
+"b": "Weeks later",
 "c": "Up to 3 days"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "Unlike alcohol, hashish leaves traces for a very long time. The correct answer is 'Weeks later'.",
 "page_reference": 2,
 "image_url": null
@@ -70,11 +70,11 @@
 "question_number": 6,
 "question_text": "You are overtaking a queue of cars on the Highway. A car approaching very fast is pushing you. What is the correct reaction?",
 "options": {
-"a": "When you are driving fast enough to overtake, you continue at a brisk pace and back into the lane on the left after overtaking",
-"b": "You abort the overtaking immediately and brake",
-"c": "You signal right to indicate you are not moving"
+"a": "You abort the overtaking immediately and brake",
+"b": "You signal right to indicate you are not moving",
+"c": "When you are driving fast enough to overtake, you continue at a brisk pace and back into the lane on the left after overtaking"
 },
-"correct_answer": "a",
+"correct_answer": "c",
 "explanation": "This complex scenario requires the specific correct sequence: continue briskly -> finish overtaking -> move left. Panic braking or blocking are wrong.",
 "page_reference": 5,
 "image_url": null
@@ -83,11 +83,11 @@
 "question_number": 7,
 "question_text": "What is the exact consequence if alterations to your vehicle result in the permit for use being cancelled?",
 "options": {
-"a": "The insurance cover lapses",
-"b": "You must pay a fine of 500 Pula",
-"c": "You receive a warning in the traffic offender file"
+"a": "You receive a warning in the traffic offender file",
+"b": "The insurance cover lapses",
+"c": "You must pay a fine of 500 Pula"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "The most severe and immediate legal consequence mentioned is that the insurance cover lapses (becomes void).",
 "page_reference": 8,
 "image_url": null
@@ -96,11 +96,11 @@
 "question_number": 8,
 "question_text": "You have sold your vehicle which is still registered. The buyer has paid. What is the mandatory step you must take?",
 "options": {
-"a": "Hand over the vehicle registration certificate and vehicle registration book or permit for use to the buyer against receipt",
-"b": "Go to the police station with the buyer to sign an affidavit",
-"c": "Cancel your insurance and let the buyer handle the rest"
+"a": "Go to the police station with the buyer to sign an affidavit",
+"b": "Cancel your insurance and let the buyer handle the rest",
+"c": "Hand over the vehicle registration certificate and vehicle registration book or permit for use to the buyer against receipt"
 },
-"correct_answer": "a",
+"correct_answer": "c",
 "explanation": "The procedure is strict: You must physically hand over the specific documents (certificate & book/permit) and get a receipt.",
 "page_reference": 7,
 "image_url": null
@@ -109,11 +109,11 @@
 "question_number": 9,
 "question_text": "What does 'power sound' in the car result in?",
 "options": {
-"a": "Signals from other traffic – in particular sirens – are not heard",
-"b": "Distraction due to vibration",
-"c": "It causes the driver to fall asleep"
+"a": "Distraction due to vibration",
+"b": "It causes the driver to fall asleep",
+"c": "Signals from other traffic – in particular sirens – are not heard"
 },
-"correct_answer": "a",
+"correct_answer": "c",
 "explanation": "This checks for the specific danger listed: the inability to hear sirens (audible warning signals).",
 "page_reference": 1,
 "image_url": null
@@ -122,7 +122,7 @@
 "question_number": 10,
 "question_text": "What is the correct definition of 'Defensive Driving'?",
 "options": {
-"a": "Not insisting on your rights",
+"a": "Not insisting on your rights and allowing for other people's mistakes",
 "b": "Driving slowly and cautiously at all times",
 "c": "Always using your horn to warn others"
 },
@@ -161,11 +161,11 @@
 "question_number": 13,
 "question_text": "When is a new car due for its first official inspection?",
 "options": {
-"a": "After three years",
-"b": "After one year",
+"a": "After one year",
+"b": "After three years",
 "c": "After two years"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "Drivers often confuse the 1-year or 2-year intervals for older cars with the rule for new cars (3 years).",
 "page_reference": 7,
 "image_url": null
@@ -187,11 +187,11 @@
 "question_number": 15,
 "question_text": "What must be remembered regarding the rear registration plate?",
 "options": {
-"a": "It must be lit up in darkness",
-"b": "It must be yellow",
+"a": "It must be yellow",
+"b": "It must be lit up in darkness",
 "c": "It must include the owner's name"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "A specific statutory requirement: the rear plate must have a light source for night visibility.",
 "page_reference": 7,
 "image_url": null
