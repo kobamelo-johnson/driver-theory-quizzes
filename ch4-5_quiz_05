@@ -1,0 +1,200 @@
+{
+  "quiz_id": "ch4-5_quiz_05",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Using the rule of thumb, what is the total STOPPING distance you must reckon with at a speed of 100 km/h?",
+      "options": {
+        "a": "(( 100 )) metres",
+        "b": "(( 30 )) metres",
+        "c": "(( 130 )) metres"
+      },
+      "correct_answer": "c",
+      "explanation": "To find the total stopping distance, you must add reaction distance (30m) and braking distance (100m). Reaction: (100/10 x 3) = 30. Braking: (100/10 x 100/10) = 100. Total = 130 metres.",
+      "page_reference": 24,
+      "image_url": null
+    },
+    {
+      "question_number": 2,
+      "question_text": "What does a front-wheel drive car tend to do if you accelerate too much on a bend?",
+      "options": {
+        "a": "The rear end tends to turn out to the side.",
+        "b": "The front end tends to turn out to the side.",
+        "c": "The steering wheel will vibrate and pull toward the center."
+      },
+      "correct_answer": "b",
+      "explanation": "In front-wheel drive cars, the front wheels provide both steering and power. Excessive acceleration causes them to lose lateral grip first, making the front 'plow' or turn out toward the side (understeer).",
+      "page_reference": 23,
+      "image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_text": "What is the maximum speed you are allowed to drive a truck and trailer with a permissible total mass of 3.6 t on country roads outside built-up areas?",
+      "options": {
+        "a": "(( 80 )) km/h",
+        "b": "(( 100 )) km/h",
+        "c": "(( 60 )) km/h"
+      },
+      "correct_answer": "a",
+      "explanation": "Regardless of the road condition, motor vehicles with a permissible total mass exceeding 3.5 t are restricted to a maximum speed of 80 km/h on country roads.",
+      "page_reference": 22,
+      "image_url": null
+    },
+    {
+      "question_number": 4,
+      "question_text": "You want to join the driving lane of the Highway from the accelerating lane. Where must you stop, if necessary, if you cannot join because of high traffic density?",
+      "options": {
+        "a": "Toward the beginning of the accelerating lane.",
+        "b": "On the hard shoulder parallel to the driving lane.",
+        "c": "Toward the end of the accelerating lane."
+      },
+      "correct_answer": "c",
+      "explanation": "The manual specifically states that if you cannot find a gap, you must continue to the end of the lane and stop there. Stopping at the beginning is incorrect as it prevents you from using the lane to match Highway speeds later.",
+      "page_reference": 11,
+      "image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_text": "What must you reckon with when it starts raining after a long period of dry weather?",
+      "options": {
+        "a": "Visibility will improve as the dust is washed away.",
+        "b": "A dangerous greasy film on the surface of the road.",
+        "c": "Tyre temperature will drop, increasing lateral grip immediately."
+      },
+      "correct_answer": "b",
+      "explanation": "Initial rain on dry roads mixes with dust and oil to create a 'greasy film' that is extremely slippery. This is more dangerous than a road that has been raining for hours.",
+      "page_reference": 20,
+      "image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_text": "What leads frequently to serious accidents when overtaking on Highways?",
+      "options": {
+        "a": "Not keeping a close enough eye on the traffic situation behind.",
+        "b": "Driving too close to the lane markings on the right.",
+        "c": "Overtaking vehicles with a permissible total mass of under 2.8 t."
+      },
+      "correct_answer": "a",
+      "explanation": "Many highway collisions are caused by drivers pulling into the overtaking lane without noticing faster vehicles approaching rapidly from the rear.",
+      "page_reference": 9,
+      "image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_text": "Which motor vehicles may freely choose their lane inside built-up areas?",
+      "options": {
+        "a": "All motor vehicles with a permissible total mass of up to (( 3.5 )) t.",
+        "b": "Only buses and taxis during peak traffic hours.",
+        "c": "Only motor vehicles with a length of less than 4 metres."
+      },
+      "correct_answer": "a",
+      "explanation": "Inside built-up areas, vehicles with a total mass up to 3.5 tonnes can choose the most suitable lane for their direction. Heavier vehicles must generally stay left.",
+      "page_reference": 9,
+      "image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_text": "Where must you particularly prepare for dangerous side winds on the Highway?",
+      "options": {
+        "a": "When driving past dense forests with no openings.",
+        "b": "On bridges and behind cuts in the landscape.",
+        "c": "In the slipstream directly behind a truck and trailer."
+      },
+      "correct_answer": "b",
+      "explanation": "Bridges and cuttings are the most dangerous for crosswinds because the vehicle is suddenly exposed to high-pressure air after being shielded by the terrain.",
+      "page_reference": 19,
+      "image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_text": "You are driving on a good country road at night with dipped headlights. Within what distance must you be able to stop?",
+      "options": {
+        "a": "Within twice the range of your headlights.",
+        "b": "Within 100 metres regardless of headlight range.",
+        "c": "Within the range of vision."
+      },
+      "correct_answer": "c",
+      "explanation": "Safety regulations require that your stopping distance must always be less than or equal to the distance you can see clearly (your range of vision).",
+      "page_reference": 22,
+      "image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_text": "What can result in aquaplaning (sliding on wet roads)?",
+      "options": {
+        "a": "High speed, worn tyres, and grooves in the roadway.",
+        "b": "Low speed and the use of winter tyres.",
+        "c": "Driving with a tyre pressure that is slightly too high."
+      },
+      "correct_answer": "a",
+      "explanation": "Aquaplaning occurs when the tyre cannot displace water fast enough. Worn tyres and road grooves aggravate this by trapping deeper water.",
+      "page_reference": 19,
+      "image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_text": "What must you particularly remember when having a vehicle towed on the Highway?",
+      "options": {
+        "a": "Towing is only permitted for a maximum of 5 kilometres.",
+        "b": "You must use the left-hand hard shoulder to reach the nearest exit.",
+        "c": "Both vehicles must have their hazard warning lights switched on."
+      },
+      "correct_answer": "c",
+      "explanation": "Hazard lights are mandatory for both the towing and towed vehicles on the Highway to warn other high-speed traffic of the slow-moving hazard.",
+      "page_reference": 12,
+      "image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_text": "The road is muddy for a short distance. What should you avoid here, if possible?",
+      "options": {
+        "a": "Steering wheel movements.",
+        "b": "Driving at a speed of less than 20 km/h.",
+        "c": "Keeping the vehicle in a high gear."
+      },
+      "correct_answer": "a",
+      "explanation": "Steering movements on mud cause an immediate loss of lateral grip. You should keep the wheels as straight as possible until you clear the mud.",
+      "page_reference": 14,
+      "image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_text": "Why must you be particularly careful when driving a vehicle with which you are unfamiliar?",
+      "options": {
+        "a": "Because unfamiliar vehicles have a legally required higher safe distance.",
+        "b": "Because you do not yet know how the vehicle behaves on bends at higher speeds.",
+        "c": "Because you must drive faster to get used to the controls."
+      },
+      "correct_answer": "b",
+      "explanation": "Every vehicle has unique handling characteristics. Not knowing how an unfamiliar car reacts to braking or steering on a bend at speed is a significant risk.",
+      "page_reference": 18,
+      "image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_text": "What does a rear-wheel drive car tend to do if you accelerate too much on a bend?",
+      "options": {
+        "a": "The rear end tends to turn out to the side.",
+        "b": "The front end tends to turn out to the side.",
+        "c": "The vehicle will brake automatically due to centrifugal force."
+      },
+      "correct_answer": "a",
+      "explanation": "In a rear-wheel drive car, excessive power makes the rear wheels slide outwards, causing the car to 'spin out' or turn tighter than intended.",
+      "page_reference": 23,
+      "image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_text": "To which roads does the recommended speed of 120 km/h apply?",
+      "options": {
+        "a": "All single-lane country roads outside built-up areas.",
+        "b": "Roads outside built-up areas with physically separate roadways for each direction.",
+        "c": "Only roads within built-up areas that have at least three lanes."
+      },
+      "correct_answer": "b",
+      "explanation": "The 120 km/h recommendation applies to Highways and major dual-carriageway roads with separated roadways or at least two lanes per direction.",
+      "page_reference": 22,
+      "image_url": null
+    }
+  ]
+}
