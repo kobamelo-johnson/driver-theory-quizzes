@@ -1,0 +1,200 @@
+{
+"quiz_id": "ch1-3_quiz_03",
+"questions": [
+{
+"question_number": 1,
+"question_text": "How can fatigue be prevented on a long journey?",
+"options": {
+"a": "By drinking two cups of strong coffee",
+"b": "By well-timed and sufficient stops for rests",
+"c": "By gymnastic exercises while driving"
+},
+"correct_answer": "b",
+"explanation": "Stimulants like coffee only provide a short-term boost. The only way to truly prevent fatigue is to stop and rest adequately.",
+"page_reference": 1,
+"image_url": null
+},
+{
+"question_number": 2,
+"question_text": "What does 'power sound' (very loud music) in the car result in?",
+"options": {
+"a": "Signals from other traffic – in particular sirens – are not heard",
+"b": "Driving errors due to the driver being more relaxed",
+"c": "Better concentration on long roads"
+},
+"correct_answer": "a",
+"explanation": "Loud music masks external sounds, making it impossible to hear emergency sirens or horns from other vehicles.",
+"page_reference": 1,
+"image_url": null
+},
+{
+"question_number": 3,
+"question_text": "Above which alcohol level in your blood can you expect your fitness to drive to be impaired considerably?",
+"options": {
+"a": "0.3 per mille (30 mg/100 ml)",
+"b": "0.8 per mille (80 mg/100 ml)",
+"c": "0.5 per mille (50 mg/100 ml)"
+},
+"correct_answer": "a",
+"explanation": "Impairment begins at very low levels. The book states that fitness to drive can be impaired considerably above 0.3 per mille.",
+"page_reference": 2,
+"image_url": null
+},
+{
+"question_number": 4,
+"question_text": "How long can hashish and its catabolites (decomposition products) be detected in urine?",
+"options": {
+"a": "Weeks later",
+"b": "24 hours",
+"c": "48 hours"
+},
+"correct_answer": "a",
+"explanation": "Hashish remains in the system much longer than alcohol. Traces can be found in urine weeks after consumption.",
+"page_reference": 2,
+"image_url": null
+},
+{
+"question_number": 5,
+"question_text": "Which of the following persons are unfit to drive motor vehicles?",
+"options": {
+"a": "Persons who smoke a single hashish cigarette per day",
+"b": "Persons who drink coffee every morning",
+"c": "Persons who take medication for a headache occasionally"
+},
+"correct_answer": "a",
+"explanation": "Regular drug use, even a single hashish cigarette daily, renders a person unfit to drive due to the persistent effects of the drug.",
+"page_reference": 2,
+"image_url": null
+},
+{
+"question_number": 6,
+"question_text": "What are the possible effects of hashish consumption?",
+"options": {
+"a": "Intoxication with dangerous hallucination and reduced reaction capability",
+"b": "Increased awareness of danger",
+"c": "Improved judgment of speed and distance"
+},
+"correct_answer": "a",
+"explanation": "Hashish causes hallucinations and significantly slows down the driver's ability to react to hazards.",
+"page_reference": 3,
+"image_url": null
+},
+{
+"question_number": 7,
+"question_text": "What makes a good driver?",
+"options": {
+"a": "He treats others like partners, drives calmly and coolly and refrains from showing that he is superior",
+"b": "He drives fast to ensure traffic does not pile up behind him",
+"c": "He insists on his right of way to maintain traffic flow"
+},
+"correct_answer": "a",
+"explanation": "A good driver is defined by their attitude: cooperative (partners), calm, and not arrogant (superiority).",
+"page_reference": 5,
+"image_url": null
+},
+{
+"question_number": 8,
+"question_text": "What should you understand by defensive driving?",
+"options": {
+"a": "Not insisting on your rights",
+"b": "Attending a special course to learn skidding",
+"c": "Always driving below the speed limit"
+},
+"correct_answer": "a",
+"explanation": "Defensive driving means prioritizing safety over being 'right'. You should not insist on your rights if it could cause an accident.",
+"page_reference": 6,
+"image_url": null
+},
+{
+"question_number": 9,
+"question_text": "What can cause unnecessary obstructions on the road?",
+"options": {
+"a": "Vehicles proceeding too slowly for no good reason",
+"b": "Vehicles stopping at a red light",
+"c": "Vehicles slowing down for a pedestrian crossing"
+},
+"correct_answer": "a",
+"explanation": "Driving too slowly without cause blocks traffic flow and is considered an unnecessary obstruction.",
+"page_reference": 6,
+"image_url": null
+},
+{
+"question_number": 10,
+"question_text": "What can cause a dangerous situation?",
+"options": {
+"a": "Cutting corners",
+"b": "Dipping your headlights early",
+"c": "Using the indicator before turning"
+},
+"correct_answer": "a",
+"explanation": "Cutting corners (taking a turn too sharply) puts you in the path of oncoming traffic or off the road surface.",
+"page_reference": 6,
+"image_url": null
+},
+{
+"question_number": 11,
+"question_text": "Which documents must you carry as a driver?",
+"options": {
+"a": "Driving licence and vehicle registration certificate",
+"b": "Driving licence and insurance policy",
+"c": "Vehicle registration book and logbook"
+},
+"correct_answer": "a",
+"explanation": "The law requires you to carry your driving licence and the vehicle registration certificate (blue book/card).",
+"page_reference": 7,
+"image_url": null
+},
+{
+"question_number": 12,
+"question_text": "You have sold your vehicle which is still registered. The buyer has paid. What must you do?",
+"options": {
+"a": "Hand over the vehicle registration certificate and vehicle registration book or permit for use to the buyer against receipt",
+"b": "Keep the documents until the buyer gets new insurance",
+"c": "Inform the police immediately"
+},
+"correct_answer": "a",
+"explanation": "Once sold, the official documents must be physically handed over to the new owner, and you should get a receipt.",
+"page_reference": 7,
+"image_url": null
+},
+{
+"question_number": 13,
+"question_text": "What is important with regard to the official registration plates?",
+"options": {
+"a": "The rear registration plate must be lit up in darkness",
+"b": "The front registration plate must be lit up in darkness",
+"c": "Both plates must be reflective red"
+},
+"correct_answer": "a",
+"explanation": "To ensure the vehicle can be identified at night, the rear number plate must have a light illuminating it.",
+"page_reference": 7,
+"image_url": null
+},
+{
+"question_number": 14,
+"question_text": "At which intervals must you submit your car (not a new vehicle) with a diesel engine for the exhaust test?",
+"options": {
+"a": "Every 2 years",
+"b": "Every 12 months",
+"c": "Every 6 months"
+},
+"correct_answer": "a",
+"explanation": "Diesel engine vehicles (that are not new) require an exhaust test every 2 years.",
+"page_reference": 8,
+"image_url": null
+},
+{
+"question_number": 15,
+"question_text": "Alterations to your vehicle have resulted in the permit for use being cancelled. What are the consequences?",
+"options": {
+"a": "The insurance cover lapses",
+"b": "You get 3 points on your license",
+"c": "You must pay a fine to the mechanic"
+},
+"correct_answer": "a",
+"explanation": "If the vehicle is not legally permitted for road use due to alterations, the insurance company is not liable to pay, so coverage lapses.",
+"page_reference": 8,
+"image_url": null
+}
+]
+}
