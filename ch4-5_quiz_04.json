@@ -1,0 +1,202 @@
+{
+  "quiz_id": "ch4-5_quiz_04",
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "What are you allowed to use the left-hand hard shoulder for?",
+      "options": {
+        "a": "Only for emergency vehicles when a traffic jam has formed.",
+        "b": "For overtaking slower vehicles on the left to maintain Highway flow.",
+        "c": "For stopping and parking, and for driving with slow vehicles."
+      },
+      "correct_answer": "c",
+      "explanation": "According to the manual, the left-hand hard shoulder is designated specifically for stopping and parking or for use by slow-moving vehicles. Overtaking on any hard shoulder is strictly prohibited.",
+      "page_reference": 9,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@238f50533c0ae170d9cb9dafefa5cbbd9b5b6ed1/CPT4-5_qz04-Q1.png
+"
+    },
+    {
+      "question_number": 2,
+      "question_text": "You are driving in dense fog on a road outside a built-up area. Are you allowed to drive in the middle of the road continuously straddling the broken white line?",
+      "options": {
+        "a": "No, because it could represent a danger to oncoming traffic.",
+        "b": "Yes, it is recommended to ensure you stay centered on the roadway.",
+        "c": "Only if visibility is less than 10 metres and you use hazards."
+      },
+      "correct_answer": "a",
+      "explanation": "Straddling the center line is dangerous as it puts you in the path of oncoming traffic. The manual requires you to stay in your lane and use the left-hand edge markings for orientation.",
+      "page_reference": 9,
+      "image_url": null
+    },
+    {
+      "question_number": 3,
+      "question_text": "What must you reckon with on this Highway car park?",
+      "options": {
+        "a": "That you have absolute right-of-way over all entering vehicles.",
+        "b": "People suddenly stepping onto the roadway.",
+        "c": "Vehicles will only be entering from the right-hand side."
+      },
+      "correct_answer": "b",
+      "explanation": "In Highway rest areas (car parks), you must anticipate pedestrians (motorists who have parked) stepping into the roadway unexpectedly and the danger of skidding when braking.",
+      "page_reference": 10,
+      "image_url": "https://cdn.jsdelivr.net/gh/kobamelo-johnson/driver-quiz-images@238f50533c0ae170d9cb9dafefa5cbbd9b5b6ed1/CPT4-5_qz04-Q3.png
+"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Your vehicle has broken down on the Highway. What must you remember when having it towed away?",
+      "options": {
+        "a": "Both vehicles must have their hazard warning lights switched on and you must leave at the next exit.",
+        "b": "Towing is only permitted for a maximum distance of 50 kilometres.",
+        "c": "Only the vehicle being towed is required to use hazard lights."
+      },
+      "correct_answer": "a",
+      "explanation": "Safety regulations on the Highway require both vehicles to use hazard lights during towing and to exit the Highway at the very first opportunity.",
+      "page_reference": 12,
+      "image_url": null
+    },
+    {
+      "question_number": 5,
+      "question_text": "Where must you particularly reckon with dirt on the roadway and therefore danger of skidding?",
+      "options": {
+        "a": "On the approach to well-lit Highway bridges.",
+        "b": "At junctions with farm tracks and near construction sites.",
+        "c": "In built-up areas with a speed limit of 60 km/h."
+      },
+      "correct_answer": "b",
+      "explanation": "Dirt and mud are frequently pulled onto the main road at farm and construction exits, creating a slippery surface that causes skidding.",
+      "page_reference": 13,
+      "image_url": null
+    },
+    {
+      "question_number": 6,
+      "question_text": "What is the minimum distance that should normally be maintained from the vehicle in front outside built-up areas?",
+      "options": {
+        "a": "1/2 the speedometer reading in metres.",
+        "b": "A distance in metres equal to the speed in km/h.",
+        "c": "A fixed distance of 25 metres regardless of speed."
+      },
+      "correct_answer": "a",
+      "explanation": "The 'rule of thumb' for a safe gap outside built-up areas is to maintain a distance in metres that is at least half of your current speed value.",
+      "page_reference": 25,
+      "image_url": null
+    },
+    {
+      "question_number": 7,
+      "question_text": "Where must you be prepared to encounter sudden fog?",
+      "options": {
+        "a": "On steep uphill gradients during mid-day heat.",
+        "b": "In urban built-up areas with high-rise buildings.",
+        "c": "Near rivers, lakes, and in marshy areas."
+      },
+      "correct_answer": "c",
+      "explanation": "Sudden fog is most likely to occur near bodies of water or low-lying marshy ground where moisture levels are high.",
+      "page_reference": 15,
+      "image_url": null
+    },
+    {
+      "question_number": 8,
+      "question_text": "For which purposes is a horn allowed to be used outside built-up areas?",
+      "options": {
+        "a": "To signal your arrival to friends at a residence.",
+        "b": "As a warning signal or an overtaking signal.",
+        "c": "To signal frustration at slow-moving farm vehicles."
+      },
+      "correct_answer": "b",
+      "explanation": "Outside built-up areas, the horn is legally permitted to warn of danger or to signal your intention to begin an overtaking maneuver.",
+      "page_reference": 26,
+      "image_url": null
+    },
+    {
+      "question_number": 9,
+      "question_text": "Where must you be particularly prepared for dangerous side winds on the Highway?",
+      "options": {
+        "a": "On bridges and behind cuts in the landscape.",
+        "b": "Only when overtaking vehicles with a total mass under 3.5 t.",
+        "c": "When driving in dense forest areas with no clearings."
+      },
+      "correct_answer": "a",
+      "explanation": "Exposed structures like bridges and the sudden open space following a cutting in the landscape are the most common areas for dangerous crosswinds.",
+      "page_reference": 19,
+      "image_url": null
+    },
+    {
+      "question_number": 10,
+      "question_text": "What can result in aquaplaning (sliding on wet roads)?",
+      "options": {
+        "a": "Driving with dipped headlights on a wet surface.",
+        "b": "High speed, worn tyres, and grooves in the roadway.",
+        "c": "New tyres with a profile depth of over 3mm."
+      },
+      "correct_answer": "b",
+      "explanation": "Aquaplaning occurs when speed is too high for the tyres to displace water, especially if the tyres are worn or if the road has grooves that collect water.",
+      "page_reference": 19,
+      "image_url": null
+    },
+    {
+      "question_number": 11,
+      "question_text": "When is there a danger of underestimating your own speed?",
+      "options": {
+        "a": "When you have just entered a Highway from a narrow country road.",
+        "b": "When driving in a traffic jam with frequent gear changes.",
+        "c": "When the road is wide and there are no trees or buildings at the edge."
+      },
+      "correct_answer": "c",
+      "explanation": "A lack of stationary visual reference points (trees/fences) makes it difficult for the brain to perceive speed accurately, often leading to underestimation.",
+      "page_reference": 21,
+      "image_url": null
+    },
+    {
+      "question_number": 12,
+      "question_text": "What does a front-wheel drive car tend to do if you accelerate too much on a bend?",
+      "options": {
+        "a": "The front end tends to turn out to the side.",
+        "b": "The rear end tends to turn out to the side.",
+        "c": "The vehicle steering will lock in the center position."
+      },
+      "correct_answer": "a",
+      "explanation": "Excessive acceleration in a front-wheel drive car causes the front wheels to lose grip, making the front of the car push toward the outside of the curve.",
+      "page_reference": 23,
+      "image_url": null
+    },
+    {
+      "question_number": 13,
+      "question_text": "You have a reaction time of 1 second. What is the total STOPPING distance you must reckon with by rule of thumb at 50 km/h?",
+      "options": {
+        "a": "(( 15 )) m",
+        "b": "(( 40 )) m",
+        "c": "(( 25 )) m"
+      },
+      "correct_answer": "b",
+      "explanation": "Total Stopping Distance = Reaction Distance (15m) + Braking Distance (25m). The rule of thumb result is 40 metres.",
+      "page_reference": 24,
+      "image_url": null
+    },
+    {
+      "question_number": 14,
+      "question_text": "What is the reaction distance by rule of thumb if you are travelling at 60 km/h?",
+      "options": {
+        "a": "(( 18 )) m",
+        "b": "(( 36 )) m",
+        "c": "(( 54 )) m"
+      },
+      "correct_answer": "a",
+      "explanation": "The formula for reaction distance is (Speed/10 x 3). At 60 km/h, this is 6 x 3 = 18 metres.",
+      "page_reference": 24,
+      "image_url": null
+    },
+    {
+      "question_number": 15,
+      "question_text": "To which motor vehicles is the recommended Highway speed of 130 km/h intended?",
+      "options": {
+        "a": "For trucks with a permissible total mass of over 3.5 t.",
+        "b": "For cars and motorcycles.",
+        "c": "For buses and vehicles towing caravans."
+      },
+      "correct_answer": "b",
+      "explanation": "The 130 km/h recommended speed is intended specifically for cars and motorcycles under favorable conditions.",
+      "page_reference": 22,
+      "image_url": null
+    }
+  ]
+}
