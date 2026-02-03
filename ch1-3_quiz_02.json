@@ -5,11 +5,11 @@
 "question_number": 1,
 "question_text": "What makes a good driver?",
 "options": {
-"a": "He treats others like partners, drives calmly and coolly and refrains from showing that he is superior",
-"b": "He ensures he always arrives at his destination in the shortest time",
-"c": "He uses his horn to warn others of his presence constantly"
+"a": "He ensures he always arrives at his destination in the shortest time",
+"b": "He uses his horn to warn others of his presence constantly",
+"c": "He treats others like partners, drives calmly and coolly and refrains from showing that he is superior"
 },
-"correct_answer": "a",
+"correct_answer": "c",
 "explanation": "A good driver is defined by a partnership attitude, calmness, and lack of arrogance/superiority.",
 "page_reference": 5,
 "image_url": null
@@ -18,11 +18,11 @@
 "question_number": 2,
 "question_text": "A car travelling behind is urging you along on a country road. The driver is obviously annoyed that you are travelling slightly slower than is permitted. How do you react?",
 "options": {
-"a": "You let him overtake as soon as possible and refrain from paying him back for his jostling behaviour",
-"b": "You brake suddenly to warn him to back off",
+"a": "You brake suddenly to warn him to back off",
+"b": "You let him overtake as soon as possible and refrain from paying him back for his jostling behaviour",
 "c": "You drive in the middle of the road to prevent dangerous overtaking"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "Reacting with annoyance creates danger. The correct response is to let the aggressive driver pass safely.",
 "page_reference": 5,
 "image_url": null
@@ -31,11 +31,11 @@
 "question_number": 3,
 "question_text": "You are overtaking a queue of cars on the Highway. A car approaching very fast is pushing you. What do you do?",
 "options": {
-"a": "If there is a bigger space in the queue, you let the jostling driver pass",
-"b": "You tap your brakes to signal him to slow down",
-"c": "You maintain your speed and ignore him until you finish the whole queue"
+"a": "You tap your brakes to signal him to slow down",
+"b": "You maintain your speed and ignore him until you finish the whole queue",
+"c": "If there is a bigger space in the queue, you let the jostling driver pass"
 },
-"correct_answer": "a",
+"correct_answer": "c",
 "explanation": "If it is safe to move over (bigger space), allow the aggressive driver to pass to avoid a collision.",
 "page_reference": 5,
 "image_url": null
@@ -44,11 +44,11 @@
 "question_number": 4,
 "question_text": "A faster car overtakes you on a country road and cuts into your lane. How do you react?",
 "options": {
-"a": "You control your annoyance, remain cool and proceed as if you had not noticed this",
-"b": "You flash your lights to show your disapproval",
+"a": "You flash your lights to show your disapproval",
+"b": "You control your annoyance, remain cool and proceed as if you had not noticed this",
 "c": "You accelerate to close the gap"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "Getting angry or retaliating increases the risk. The defensive approach is to remain cool and continue.",
 "page_reference": 5,
 "image_url": null
@@ -70,11 +70,11 @@
 "question_number": 6,
 "question_text": "What should you understand by defensive driving?",
 "options": {
-"a": "Not insisting on your rights and allowing for other people's mistakes",
-"b": "Driving slowly to ensure safety",
-"c": "Using the horn to communicate with other drivers"
+"a": "Driving slowly to ensure safety",
+"b": "Using the horn to communicate with other drivers",
+"c": "Not insisting on your rights and allowing for other people's mistakes"
 },
-"correct_answer": "a",
+"correct_answer": "c",
 "explanation": "Defensive driving is explicitly defined as not insisting on rights and making allowances for others' errors.",
 "page_reference": 6,
 "image_url": null
@@ -83,11 +83,11 @@
 "question_number": 7,
 "question_text": "What can cause unnecessary obstructions on the road?",
 "options": {
-"a": "Motor vehicles breaking down because they have run out of fuel",
-"b": "Stopping at a pedestrian crossing",
+"a": "Stopping at a pedestrian crossing",
+"b": "Motor vehicles breaking down because they have run out of fuel",
 "c": "Waiting for a traffic light to turn green"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "Running out of fuel is a preventable breakdown and causes an unnecessary obstruction to traffic.",
 "page_reference": 6,
 "image_url": null
@@ -109,11 +109,11 @@
 "question_number": 9,
 "question_text": "What does 'power sound' in the car result in?",
 "options": {
-"a": "Signals from other traffic – in particular sirens – are not heard",
-"b": "The driver stays awake better on long trips",
-"c": "Fuel consumption increases"
+"a": "The driver stays awake better on long trips",
+"b": "Fuel consumption increases",
+"c": "Signals from other traffic – in particular sirens – are not heard"
 },
-"correct_answer": "a",
+"correct_answer": "c",
 "explanation": "Loud music ('power sound') drowns out acoustic warning signals like sirens and horns.",
 "page_reference": 1,
 "image_url": null
@@ -122,11 +122,11 @@
 "question_number": 10,
 "question_text": "What can cause a dangerous situation regarding brakes?",
 "options": {
-"a": "Brakes which engage heavily on one side",
-"b": "Brakes that squeak when used",
+"a": "Brakes that squeak when used",
+"b": "Brakes which engage heavily on one side",
 "c": "Brakes that have just been serviced"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "Uneven braking (heavily on one side) causes the car to pull to the side, potentially leading to a loss of control.",
 "page_reference": 6,
 "image_url": null
@@ -135,11 +135,11 @@
 "question_number": 11,
 "question_text": "Which substances can impair fitness to drive in a similar way to alcohol?",
 "options": {
-"a": "Certain medicines and intoxicants",
-"b": "Carbonated soft drinks",
+"a": "Carbonated soft drinks",
+"b": "Certain medicines and intoxicants",
 "c": "Vitamin supplements"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "Certain medicines can have sedative effects or slow reaction times similar to alcohol intoxication.",
 "page_reference": 1,
 "image_url": null
@@ -148,12 +148,12 @@
 "question_number": 12,
 "question_text": "When overtaking, if the car being overtaken speeds up, what should the overtaking driver do?",
 "options": {
-"a": "Abort the overtake and drop back",
-"b": "Race the other car to get past",
-"c": "Force the other car to the side"
+"a": "Race the other car to get past",
+"b": "Force the other car to the side",
+"c": "Abort the overtake and drop back"
 },
-"correct_answer": "a",
-"explanation": "(Context from 'Risk Factor Person' Page 5): If a situation becomes dangerous while overtaking, the safe option is to back off.",
+"correct_answer": "c",
+"explanation": "If a situation becomes dangerous while overtaking, the safe option is to back off (abort).",
 "page_reference": 5,
 "image_url": null
 },
@@ -174,11 +174,11 @@
 "question_number": 14,
 "question_text": "Above which alcohol level in your blood can you expect your fitness to drive to be impaired?",
 "options": {
-"a": "0.3 per mille (30 mg/100 ml)",
-"b": "0.8 per mille (80 mg/100 ml)",
-"c": "1.5 per mille (150 mg/100 ml)"
+"a": "1.5 per mille (150 mg/100 ml)",
+"b": "0.3 per mille (30 mg/100 ml)",
+"c": "0.8 per mille (80 mg/100 ml)"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "Impairment starts early. The threshold mentioned in the book is 0.3 per mille.",
 "page_reference": 2,
 "image_url": null
@@ -187,11 +187,11 @@
 "question_number": 15,
 "question_text": "What applies if you are driving on an open stretch of road at night and feel chilly or have heavy eyelids?",
 "options": {
-"a": "Interrupt your journey for an adequate break",
-"b": "Turn on the heater",
-"c": "Drive faster to get home sooner"
+"a": "Turn on the heater",
+"b": "Drive faster to get home sooner",
+"c": "Interrupt your journey for an adequate break"
 },
-"correct_answer": "a",
+"correct_answer": "c",
 "explanation": "These are signs of fatigue. The only safe solution is to stop driving and take a break.",
 "page_reference": 1,
 "image_url": null
