@@ -5,11 +5,11 @@
 "question_number": 1,
 "question_text": "What can be the cause for veering off the roadway?",
 "options": {
-"a": "Driving with dipped headlights",
-"b": "Fatigue",
+"a": "Fatigue",
+"b": "Driving with dipped headlights",
 "c": "Driving at a moderate speed"
 },
-"correct_answer": "b",
+"correct_answer": "a",
 "explanation": "According to the driver's manual, the main causes for veering off the roadway are excessive speed, inattentiveness/distraction, and fatigue.",
 "page_reference": 1,
 "image_url": null
@@ -19,10 +19,10 @@
 "question_text": "What must you do if you notice signs of fatigue when driving on open stretches of road at night (heavy eyelids, feeling chilly)?",
 "options": {
 "a": "Open the window for fresh air and continue driving",
-"b": "Interrupt your journey for an adequate break",
-"c": "Turn up the radio volume"
+"b": "Turn up the radio volume",
+"c": "Interrupt your journey for an adequate break"
 },
-"correct_answer": "b",
+"correct_answer": "c",
 "explanation": "Fatigue cannot be fought with tricks like fresh air or radio. The only safe legal requirement is to stop and take an adequate break.",
 "page_reference": 1,
 "image_url": null
@@ -32,10 +32,10 @@
 "question_text": "Can a motorist's fitness to drive be impaired by even relatively small quantities of alcohol?",
 "options": {
 "a": "No, only large quantities cause impairment",
-"b": "Yes, even small quantities of alcohol can impair fitness to drive",
-"c": "Only if the driver is tired"
+"b": "Only if the driver is tired",
+"c": "Yes, even small quantities of alcohol can impair fitness to drive"
 },
-"correct_answer": "b",
+"correct_answer": "c",
 "explanation": "Even small amounts of alcohol affect reaction times and judgment. The correct answer is 'Yes'.",
 "page_reference": 1,
 "image_url": null
@@ -44,11 +44,11 @@
 "question_number": 4,
 "question_text": "Which drugs can make a person temporarily unfit to drive even when consumed on a single occasion?",
 "options": {
-"a": "Hashish, marijuana, Heroin, cocaine",
-"b": "Prescription antibiotics",
+"a": "Prescription antibiotics",
+"b": "Hashish, marijuana, Heroin, cocaine",
 "c": "Caffeine and energy drinks"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "The book explicitly lists Hashish, marijuana, Heroin, and cocaine as drugs that render a driver unfit even after a single use.",
 "page_reference": 2,
 "image_url": null
@@ -58,10 +58,10 @@
 "question_text": "Immediately before setting off you have felt very angry and are furious. What is right?",
 "options": {
 "a": "Drive carefully to calm yourself down",
-"b": "You should not drive when you are furious",
-"c": "Drive but take a different route"
+"b": "Drive but take a different route",
+"c": "You should not drive when you are furious"
 },
-"correct_answer": "b",
+"correct_answer": "c",
 "explanation": "Strong emotions like fury act as a major distraction and increase risk-taking behavior. You must not drive until calm.",
 "page_reference": 3,
 "image_url": null
@@ -70,11 +70,11 @@
 "question_number": 6,
 "question_text": "What strongly distracts you while you are driving?",
 "options": {
-"a": "Checking the rearview mirror",
-"b": "Lighting a cigarette",
+"a": "Lighting a cigarette",
+"b": "Checking the rearview mirror",
 "c": "Listening to the engine sound"
 },
-"correct_answer": "b",
+"correct_answer": "a",
 "explanation": "Lighting a cigarette is a physical and mental distraction that takes hands and eyes off the task of driving.",
 "page_reference": 1,
 "image_url": null
@@ -84,10 +84,10 @@
 "question_text": "What makes a good driver?",
 "options": {
 "a": "He drives aggressively to make progress",
-"b": "He treats others like partners, drives calmly and coolly",
-"c": "He teaches other drivers lessons when they make mistakes"
+"b": "He teaches other drivers lessons when they make mistakes",
+"c": "He treats others like partners, drives calmly and coolly"
 },
-"correct_answer": "b",
+"correct_answer": "c",
 "explanation": "A good driver is defined by partnership and calmness, refraining from showing superiority.",
 "page_reference": 5,
 "image_url": null
@@ -96,11 +96,11 @@
 "question_number": 8,
 "question_text": "A vehicle behind is urging you along on a country road. The driver is obviously annoyed. How do you react?",
 "options": {
-"a": "You let him overtake as soon as possible and refrain from paying him back",
-"b": "You brake to show him he is too close",
+"a": "You brake to show him he is too close",
+"b": "You let him overtake as soon as possible and refrain from paying him back",
 "c": "You speed up to prevent him from passing"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "The correct defensive reaction is to allow the annoyed driver to pass safely without retaliation.",
 "page_reference": 5,
 "image_url": null
@@ -109,11 +109,11 @@
 "question_number": 9,
 "question_text": "What should you understand by 'defensive driving'?",
 "options": {
-"a": "Insisting on your rights at all times",
-"b": "Not insisting on your rights and allowing for other people's mistakes",
+"a": "Not insisting on your rights and allowing for other people's mistakes",
+"b": "Insisting on your rights at all times",
 "c": "Always driving 20km/h below the speed limit"
 },
-"correct_answer": "b",
+"correct_answer": "a",
 "explanation": "Defensive driving is the practice of anticipating errors and not insisting on right-of-way if it compromises safety.",
 "page_reference": 6,
 "image_url": null
@@ -122,11 +122,11 @@
 "question_number": 10,
 "question_text": "Which documents must you carry as a driver?",
 "options": {
-"a": "Driving licence and vehicle registration certificate",
-"b": "Insurance papers and vehicle logbook",
+"a": "Insurance papers and vehicle logbook",
+"b": "Driving licence and vehicle registration certificate",
 "c": "Driving licence and purchase receipt"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "The two mandatory documents to have on your person are the Driving Licence and the Vehicle Registration Certificate.",
 "page_reference": 7,
 "image_url": null
@@ -135,11 +135,11 @@
 "question_number": 11,
 "question_text": "Above which alcohol level in your blood can you expect your fitness to drive to be impaired considerably?",
 "options": {
-"a": "0.3 per mille (30 mg/100 ml)",
+"a": "0.8 per mille (80 mg/100 ml)",
 "b": "0.5 per mille (50 mg/100 ml)",
-"c": "0.8 per mille (80 mg/100 ml)"
+"c": "0.3 per mille (30 mg/100 ml)"
 },
-"correct_answer": "a",
+"correct_answer": "c",
 "explanation": "The book states that fitness is impaired considerably starting at 0.3 per mille.",
 "page_reference": 2,
 "image_url": null
@@ -148,11 +148,11 @@
 "question_number": 12,
 "question_text": "What do you think of drivers who travel too fast under pressure of time and do not observe speed regulations?",
 "options": {
-"a": "They are efficient drivers",
-"b": "Pressure of time is no justification for ignoring traffic regulations",
+"a": "Pressure of time is no justification for ignoring traffic regulations",
+"b": "They are efficient drivers",
 "c": "They are allowed to speed if they flash their lights"
 },
-"correct_answer": "b",
+"correct_answer": "a",
 "explanation": "There is no excuse for speeding. Pressure of time is not a valid justification for breaking the law.",
 "page_reference": 3,
 "image_url": null
@@ -161,11 +161,11 @@
 "question_number": 13,
 "question_text": "What can cause a dangerous situation?",
 "options": {
-"a": "Too much steering-wheel play",
-"b": "A well-maintained engine",
+"a": "A well-maintained engine",
+"b": "Too much steering-wheel play",
 "c": "Correctly adjusted mirrors"
 },
-"correct_answer": "a",
+"correct_answer": "b",
 "explanation": "Excessive play in the steering wheel reduces control and is a mechanical danger listed in the book.",
 "page_reference": 6,
 "image_url": null
@@ -174,11 +174,11 @@
 "question_number": 14,
 "question_text": "In which cases must you notify the change of location of a vehicle to the district of another registration centre?",
 "options": {
-"a": "When you go on holiday for a month",
-"b": "When the change of location is permanent",
+"a": "When the change of location is permanent",
+"b": "When you go on holiday for a month",
 "c": "When you lend the car to a friend in another city"
 },
-"correct_answer": "b",
+"correct_answer": "a",
 "explanation": "Notification is only required if the move to the new district is permanent.",
 "page_reference": 7,
 "image_url": null
@@ -187,11 +187,11 @@
 "question_number": 15,
 "question_text": "What does the hexagonal stamp on the front number plate indicate?",
 "options": {
-"a": "The date of the next insurance payment",
-"b": "The date of the next exhaust test",
+"a": "The date of the next exhaust test",
+"b": "The date of the next insurance payment",
 "c": "The date of vehicle manufacture"
 },
-"correct_answer": "b",
+"correct_answer": "a",
 "explanation": "The hexagonal stamp specifically indicates when the vehicle must undergo its next exhaust emission test.",
 "page_reference": 8,
 "image_url": null
